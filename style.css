@@ -32,9 +32,7 @@
     padding-left: 95px;
 }
 
-.subtext {
-    padding-left: 95px;
-}
+
 
 .jumbotron {
     position: relative;
@@ -69,9 +67,17 @@
     opacity: .8;
 }
 
-code {
+.code {
    padding: 1px 4px;
 }
+
+.footer {
+  position: relative;
+  margin-top: -150px; /* negative value of footer height */
+  height: 150px;
+  clear:both;
+  padding-top:20px;
+} 
 
 .right-ref-link {
     float: right;
