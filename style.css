@@ -1,9 +1,30 @@
+.note {
+    padding-top: 10px;
+}
+
+
 .navbar-inner {
     padding-left: 95px;
 }
 
+
+.pills {
+    padding-top: 20px;
+
+}
+
 .nav {
     padding-left: auto;
+}
+
+.note {
+    padding-left: 130px
+}
+
+.footer {
+    margin-bottom: 20px;
+    bottom: 0;
+    padding-right: 15px;
 }
 
 .tabs {
@@ -71,13 +92,7 @@
    padding: 1px 4px;
 }
 
-.footer {
-  position: relative;
-  margin-top: -150px; /* negative value of footer height */
-  height: 150px;
-  clear:both;
-  padding-top:20px;
-} 
+
 
 .right-ref-link {
     float: right;
