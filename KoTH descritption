@@ -1,0 +1,7 @@
+Description: A map almost always consisting of a symmetrical square or other shape where there are two bases. However, the players are given the required supplies the moment they spawn, so there is no need to provide locations to obtain supplies. 
+
+Aim: The goal is to control the area designated by the map designer for a set amount of time by standing inside of it and keeping the enemy out. There is no given time limit unless specified. 
+
+Objective: To win, the control point(s) must be held for a certain amount of time, or until the timer reaches zero and the game finishes.
+
+Additional Information: This gamemode stopped being supported in PGM 2.0 update. But then it was re-implemented after the newest administrator, YukonAppleGeek, posted the issue on Github. You may join mid-game.
