@@ -1,0 +1,5 @@
+Aim: Find ways of detecting invisible players and killing them.
+
+Objecitve: One spawns with a selected kit and is invisible, trying to kill other invisible people on the other team.
+
+General Gameplay: Do /classes to see a list of classes, and /class (class name here) to change a class. Note that you can only change classes before game, and that you cannot join mid-game and must wait until the next map if you do not join at the start.
