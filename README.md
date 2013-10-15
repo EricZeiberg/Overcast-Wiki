@@ -21,3 +21,4 @@ All Pull Requests submitted *must* follow these guidelines or they will be marke
 3. PRs must use the latest fork of the repo.
 4. Ensure you're not submitting a duplicate PR by searching before submitting.
 5. These guidelines are subject to change at any time.
+6. Existing PRs are not subject to any changes in guidelines provided they are not updated after the change.
