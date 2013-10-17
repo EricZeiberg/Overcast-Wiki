@@ -55,7 +55,7 @@ function pageHeader($selected)
             "icon" => "icon-cog",
             "type" => "main",
         ),
-        "Pvp Tips" => array(
+        "PvP Tips" => array(
             "href" => "tips.php",
             "icon" => "icon-ok",
             "type" => "main",
