@@ -17,7 +17,7 @@
       pageHeader("Home");
       ?>
 <div class = "container">
-      <div class="alert">
+      <div class="alert alert-error">
   <button type="button" class="close" data-dismiss="alert alert-error">&times;</button>
   <strong>Alert!</strong> The wiki is undergoing complete a complete rewrite. We know about the bugs and are working to fix them
 </div>
