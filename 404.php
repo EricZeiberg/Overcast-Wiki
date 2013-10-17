@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<?php
+include("includes/functions.php");
+?>
 <style>
   .center {text-align: center; margin-left: auto; margin-right: auto; margin-bottom: auto; margin-top: auto;}
 </style>
@@ -6,31 +10,6 @@
     <link href="style.css" rel="stylesheet" media="screen">
     <link href="highlight.css" rel="stylesheet" media="screen">
 <body>
-
-<div class = "mnavbar">
-    <div class="navbar navbar-static-top">
-    
-  <div class="navbar-inner">
-      <div class = "container">
-    <a class="brand" href="index.html"><img src="small.png"> Overcast Network Wiki</a>
-    <ul class="nav">
-      <li><a href="index.html"><i class="icon-home"></i>  Home</a></li>
-      <li><a href="gamemodes.html"><i class="icon-play"></i>   Gamemodes</a></li>
-      <li><a href="rules.html"><i class="icon-exclamation-sign"></i>   Rules</a></li>
-      <li><a href="commands.html"><i class="icon-cog"></i>  Commands</a></li>
-      <li><a href="tips.html"><i class="icon-ok"></i>   PvP Tips</a></li>
-      <li><a href="tourney.html"><i class="icon-bullhorn"></i>  Tournaments</a></li>
-       <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-th-list"></i>   More <b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            <li><a href="ranks.html"><i class="icon-star-empty"></i>    Ranks</a></li>
-        </ul>
-    </li>
-    </ul>
-  </div>
-  </div>
-</div>
-</div>
 
 <div class = "container">
   <div class="hero-unit center">
@@ -43,27 +22,6 @@
 </div>
  <body>
 
- <div class="container">
-<footer class="footer">
-<ul class="nav nav-pills">
-<li class="pull-left">
-<a>Overcast Network Wiki</a>
-</li>
-<li class="note">
-<a>NOTE: This wiki is unofficial and is not affiliated or endorsed by Overcast Network</a>
-</li>
-<li class ="pull-right" >
-<a href="http://oc.tc">OCN website</a>
-</li>
-<li class ="pull-right" >
-<a href="https://github.com/MasterEjay/Overcast-Wiki">GitHub Repo</a>
-</li>
-<li class ="pull-right" >
-<a href="contributers.html">Contributors</a>
-</li>
-<li class ="pull-right" >
-<a href="http://ocnblog.com">Blog</a>
-</li>
-</ul>
-</footer>
-</div>
+    <?php
+      pageFooter();
+    ?>
