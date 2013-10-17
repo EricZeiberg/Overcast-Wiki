@@ -38,7 +38,7 @@
     <br />
     <p>Oops, this page does not exist! You probably have the wrong link. Move along now, nothing to see here</p>
     <p><b>Or you could just press this neat little button:</b></p>
-    <a href="index.html" class="btn btn-large btn-info"><i class="icon-home icon-white"></i> Take Me Home</a>
+    <a href="index.php" class="btn btn-large btn-info"><i class="icon-home icon-white"></i> Take Me Home</a>
   </div>
 </div>
  <body>
