@@ -24,6 +24,12 @@
       <li class="active"><a href="#"><i class="icon-cog"></i>  Commands</a></li>
       <li><a href="tips.html"><i class="icon-ok"></i>   PvP Tips</a></li>
       <li><a href="tourney.html"><i class="icon-bullhorn"></i>  Tournaments</a></li>
+       <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-th-list"></i>   More <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="ranks.html"><i class="icon-star-empty"></i>    Ranks</a></li>
+        </ul>
+    </li>
     </ul>
   </div>
   </div>
@@ -42,41 +48,42 @@
 <div class="container">
 <div class="tabbable tabs-left"> <!-- Only required for left/right tabs -->
   <ul class="nav nav-tabs">
-    <li class="active"><a href="#tab1" data-toggle="tab">/Join</a></li>
-    <li><a href="#tab2" data-toggle="tab">/Toggle</a></li>
-    <li><a href="#tab3" data-toggle="tab">/Report</a></li>
+    <li class="active"><a href="#tab1" data-toggle="tab">/join</a></li>
+    <li><a href="#tab2" data-toggle="tab">/toggle</a></li>
+    <li><a href="#tab3" data-toggle="tab">/report</a></li>
     <li><a href="#tab4" data-toggle="tab">Chat Channels</a></li>
     <li><a href="#tab5" data-toggle="tab">Private MSG</a></li>
     <li><a href="#tab6" data-toggle="tab">Friends</a></li>
     <li><a href="#tab7" data-toggle="tab">/match</a></li>
     <li><a href="#tab8" data-toggle="tab">/map</a></li>
     <li><a href="#tab9" data-toggle="tab">/rot</a></li>
-
+    <li><a href="#tab10" data-toggle="tab">/mapnext</a></li>
+    <li><a href="#tab11" data-toggle="tab">/staff</a></li>
   </ul>
   <div class="tab-content">
     <div class="tab-pane active" id="tab1">
-      <strong>/Join</strong>
+      <strong>/join</strong>
       <strong>Usage:</strong><p>/join [team]</p>
       <strong>About:</strong><p>This is how you join the game</p>
       <strong>Other info:</strong><p>You can only specify a team if you have donated or are the maker of the map currently playing.</p>
     </div>
     <div class="tab-pane" id="tab2">
-      <strong>/Toggle</strong>
+      <strong>/toggle</strong>
       <strong>Usage:</strong><p>/toggle [setting]</p>
       <strong>About:</strong><p>This changes settings specific to you.</p>
-      <strong>Blood:</strong><p>See blood when a player gets hurt</p>
-      <strong>Death Messages:</strong><p>Death messages displayed to you</p>
-      <strong>Join Messages:</strong><p>Join messages displayed to you</p>
-      <strong>Observers:</strong><p>See other observers while spectating</p>
-      <strong>Picker:</strong><p>Open a helpful GUI for picking classes and teams</p>
-      <strong>Punishment Messages:</strong><p>Punishment messages displayed to you</p>
-      <strong>Scoreboard:</strong><p>See the scoreboard with game info</p>
-      <strong>Timer:</strong><p>Show remaining time at the top of the screen</p>
+      <strong>Blood:</strong><p>See blood when a player gets hurt.</p>
+      <strong>Death Messages:</strong><p>Death messages displayed to you.</p>
+      <strong>Join Messages:</strong><p>Join messages displayed to you.</p>
+      <strong>Observers:</strong><p>See other observers while spectating.</p>
+      <strong>Picker:</strong><p>Open a helpful GUI for picking classes and teams.</p>
+      <strong>Punishment Messages:</strong><p>Punishment messages displayed to you.</p>
+      <strong>Scoreboard:</strong><p>See the scoreboard with game info.</p>
+      <strong>Timer:</strong><p>Show remaining time at the top of the screen.</p>
     </div>
     <div class="tab-pane" id="tab3">
-      <strong>/Report</strong>
+      <strong>/report</strong>
       <strong>Usage:</strong><p>/report [player] [reason]</p>
-      <strong>About:</strong><p>Alerts the staff to the player specified with the reason specified</p>
+      <strong>About:</strong><p>Alerts the staff to the player specified with the reason specified.</p>
       <strong>Other info:</strong><p>Do not report players unnecessarily or misuse the command!</p>
     </div>
     <div class="tab-pane" id="tab4">
@@ -84,39 +91,51 @@
       <strong>Usage:</strong><p>/g</p>
       <strong>Team Chat</strong>
       <strong>Usage:</strong><p>/t</p>
-      <strong>About:</strong><p>Toggles if your messages are constantly in Global chat or Team chat.</p>
+      <strong>About:</strong><p>Toggles if your messages are constantly in global chat or team chat.</p>
       <strong>Other info:</strong><p>This does not apply in the Lobby server, and was recently implemented.</p>
   </div>
    <div class="tab-pane" id="tab5">
       <strong>/msg</strong>
       <strong>Usage:</strong><p>/msg [name] [message]</p>
       <strong>About:</strong><p>Sends a message to a certain player. Only that player can see the message</p>
-      <strong>Other info:</strong><p>Use /r if you receive a msg to quickly reply back</p>
+      <strong>Other info:</strong><p>Use /r if you receive a private message to quickly reply to the sender.</p>
   </div>
    <div class="tab-pane" id="tab6">
       <strong>/fr or /friends</strong>
       <strong>Usage:</strong><p>/fr</p>
-      <strong>About:</strong><p>Sends you a list of your friends and where they are/were on the servers</p>
-      <strong>Other info:</strong><p>To add friends, go to their stats and click add friend</p>
+      <strong>About:</strong><p>Sends you a list of your friends and what server they are currently on, or were last on and how long ago.</p>
+      <strong>Other info:</strong><p>To add friends, go to their stats and click add friend.</p>
   </div>
    <div class="tab-pane" id="tab7">
       <strong>/match</strong>
       <strong>Usage:</strong><p>/match</p>
-      <strong>About:</strong><p>Sends you info about match time, number of players, ect</p>
+      <strong>About:</strong><p>Sends you info about match time, number of players, score, etc.</p>
       <strong>Other info:</strong><p>N/A</p>
   </div>
    <div class="tab-pane" id="tab8">
       <strong>/map</strong>
       <strong>Usage:</strong><p>/map</p>
-      <strong>About:</strong><p>Sends you info about map rules, authors, max players ect</p>
+      <strong>About:</strong><p>Sends you info about map rules, authors, max players etc.</p>
       <strong>Other info:</strong><p>Make sure you read the map rules before playing any map you don't know!</p>
   </div>
    <div class="tab-pane" id="tab9">
       <strong>/rot</strong>
       <strong>Usage:</strong><p>/rot</p>
-      <strong>About:</strong><p>Sends you info about the rotation like next map. </p>
+      <strong>About:</strong><p>Sends you info about the rotation like next map.</p>
       <strong>Other info:</strong><p>To go to the second page to /rot 2</p>
   </div>
+   <div class="tab-pane" id="tab10">
+      <strong>/mapnext</strong>
+      <strong>Usage:</strong><p>/mapnext</p>
+      <strong>About:</strong><p>Tells you the next map on the rotation.</p>
+      <strong>Other info:</strong><p>Shortened to <b>/mn</b></p>
+   </div>
+   <div class="tab-pane" id="tab11">
+      <strong>/staff</strong>
+      <strong>Usage:</strong><p>/staff [server] [-a]</p>
+      <strong>About:</strong><p>Displays staff on the current server, on the specified server, or on all servers if -a is specified.</p>
+      <strong>Other info:</strong><p>N/A</p>
+   </div>
 </div>
 </div>
 </div>
@@ -139,7 +158,7 @@
 <a>Overcast Network Wiki</a>
 </li>
 <li class="note">
-<a>NOTE: This blog is unofficial and is not affiliated or endorsed by Overcast Network</a>
+<a>NOTE: This wiki is unofficial and is not affiliated or endorsed by Overcast Network</a>
 </li>
 <li class ="pull-right" >
 <a href="http://oc.tc">OCN website</a>
