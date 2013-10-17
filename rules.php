@@ -210,8 +210,8 @@
     <div class = "container">
       <hr>
     </div>
-    <?php
-      pageHeader("Rules");
+   <?php
+      pageFooter();
       ?>
   </body>
 </html>
