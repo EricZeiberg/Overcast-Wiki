@@ -4,6 +4,15 @@
 
 }
 
+
+.media-body {
+    padding-left: 10px;
+}
+
+.label {
+    text-shadow:none;
+}
+
 .con {
     padding-top: 10px;
 }
