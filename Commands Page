@@ -1,0 +1,20 @@
+When playing on the Overcast Network, the average player, with no donation or moderation/administration perks, has access to the following commands:
+
+/join //Allocates the player on a random team, exept if teams are full.
+/report [player] [reason] // If you see someone breaking a rule (https://oc.tc/rules) use this command to notify Moderators and Administrators on what is happening! For more info click on this link: https://oc.tc/forums/topics/51cf6a48ba60877fea00482d
+/lookup [player] // Shows all infractions a player has recieved.
+/g [statement] // This command allows the player to write in global chat, meaning that any player or spectator can see what you are saying.
+/msg [player] [msg] // This command allows two players to communicate privatley.
+
+If a player has donated (https://oc.tc/shop), one has access to commands such as:
+
+/join [team]
+
+Additionally donators can join full teams, but only up to a 125% increase.
+
+Moderators and Administrators have access to commands such as:
+
+/setnext [map]
+/kick [reason]
+/tempban [time] [reason]
+/ban [reason]
