@@ -12,7 +12,9 @@ include("includes/functions.php");
     <link href="highlight.css" rel="stylesheet" media="screen">
     <link href="assets/ico/favicon.ico" rel="icon">
 <body>
-
+    <?php
+      pageHeader("Home");
+      ?>
 <div class = "container">
   <div class="hero-unit center">
     <h1>Page Not Found <small><font face="Tahoma" color="red">Error 404</font></small></h1>
