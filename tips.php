@@ -32,7 +32,7 @@
           </ul>
           <div class="tab-content">
             <div class="tab-pane active" id="tab1">
-              <h2>A general guide to PvP </h2><small>by Oversoul96</small>
+              <h2>A general guide to PvP (Written by Oversoul96)</h2>
               <hr>
               <p>If you've played on Project Ares at all, you'll know that there are tons of different strategies you can use in game play. In this guide, Ill talk about some tips and tricks I think will help players become more fit to survive in the PvP onslaught. This guide will focus mainly on DtC maps, because they are the most complex.</p>
               <h4><u>The Basics</u></h4>
