@@ -37,7 +37,8 @@ include("includes/functions.php");
             <li><a href="#tab8" data-toggle="tab">/map</a></li>
             <li><a href="#tab9" data-toggle="tab">/rot</a></li>
             <li><a href="#tab10" data-toggle="tab">/mapnext</a></li>
-            <li><a href="#tab11" data-toggle="tab">/staff</a></li>
+            <li><a href="#tab11" data-toggle="tab">/lookup</a></li>
+            <li><a href="#tab12" data-toggle="tab">/staff</a></li>
           </ul>
           <div class="tab-content">
             <div class="tab-pane active" id="tab1">
