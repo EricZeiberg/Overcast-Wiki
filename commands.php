@@ -156,6 +156,15 @@ include("includes/functions.php");
               <strong>Other info:</strong>
               <p>N/A</p>
             </div>
+            <div class="tab-pane" id="tab12">
+              <strong>/lookup</strong>
+              <strong>Usage:</strong>
+              <p>/lookup [@]<player></p>
+              <strong>About:</strong>
+              <p>Shows warns, kick or bans from a player.</p>
+              <strong>Other info:</strong>
+              <p>If you wan't to see offline player add @, like: @Notch</p>
+            </div>
           </div>
         </div>
       </div>
