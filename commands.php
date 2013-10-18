@@ -147,16 +147,7 @@ include("includes/functions.php");
               <strong>Other info:</strong>
               <p>Shortened to <b>/mn</b></p>
             </div>
-            <div class="tab-pane" id="tab11">
-              <strong>/staff</strong>
-              <strong>Usage:</strong>
-              <p>/staff [server] [-a]</p>
-              <strong>About:</strong>
-              <p>Displays staff on the current server, on the specified server, or on all servers if -a is specified.</p>
-              <strong>Other info:</strong>
-              <p>N/A</p>
-            </div>
-            <div class="tab-pane" id="tab12">
+             <div class="tab-pane" id="tab11">
               <strong>/lookup</strong>
               <strong>Usage:</strong>
               <p>/lookup [@]<player></p>
@@ -164,6 +155,15 @@ include("includes/functions.php");
               <p>Shows warns, kick or bans from a player.</p>
               <strong>Other info:</strong>
               <p>If you wan't to see offline player add @, like: @Notch</p>
+            </div>
+            <div class="tab-pane" id="tab12">
+              <strong>/staff</strong>
+              <strong>Usage:</strong>
+              <p>/staff [server] [-a]</p>
+              <strong>About:</strong>
+              <p>Displays staff on the current server, on the specified server, or on all servers if -a is specified.</p>
+              <strong>Other info:</strong>
+              <p>N/A</p>
             </div>
           </div>
         </div>
