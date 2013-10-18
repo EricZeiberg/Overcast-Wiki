@@ -14,7 +14,7 @@
   </head>
   <body>
     <?php
-      pageHeader("Pvp Tips")
+      pageHeader("PvP Tips")
       ?>
     <div class = "container">
       <div class ="jumbotron">
