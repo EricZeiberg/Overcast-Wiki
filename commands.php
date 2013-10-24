@@ -60,7 +60,7 @@ include("includes/functions.php");
               <strong>Death Messages:</strong>
               <p>Death messages displayed to you. (/toggle dms)</p>
               <strong>Join Messages:</strong>
-              <p>Join messages displayed to you. (/toggle jms</p>
+              <p>Join messages displayed to you. (/toggle jms)</p>
               <strong>Observers:</strong>
               <p>See other observers while spectating. (/toggle obs)</p>
               <strong>Picker:</strong>
