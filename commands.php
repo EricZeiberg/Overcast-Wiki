@@ -54,23 +54,23 @@ include("includes/functions.php");
               <strong>Usage:</strong>
               <p>/toggle [setting]</p>
               <strong>About:</strong>
-              <p>This changes settings specific to you.</p>
+              <p>This changes settings (/settings) specific to you. </p>
               <strong>Blood:</strong>
-              <p>See blood when a player gets hurt.</p>
+              <p>See blood when a player gets hurt. (/toggle blood)</p>
               <strong>Death Messages:</strong>
-              <p>Death messages displayed to you.</p>
+              <p>Death messages displayed to you. (/toggle dms)</p>
               <strong>Join Messages:</strong>
-              <p>Join messages displayed to you.</p>
+              <p>Join messages displayed to you. (/toggle jms</p>
               <strong>Observers:</strong>
-              <p>See other observers while spectating.</p>
+              <p>See other observers while spectating. (/toggle obs)</p>
               <strong>Picker:</strong>
-              <p>Open a helpful GUI for picking classes and teams.</p>
+              <p>Open a helpful GUI for picking classes and teams. (/toggle picker)</p>
               <strong>Punishment Messages:</strong>
-              <p>Punishment messages displayed to you.</p>
+              <p>Punishment messages displayed to you. (/toggle punishments)</p>
               <strong>Scoreboard:</strong>
-              <p>See the scoreboard with game info.</p>
+              <p>See the scoreboard with game info. (/toggle scoreboard)</p>
               <strong>Timer:</strong>
-              <p>Show remaining time at the top of the screen.</p>
+              <p>Show remaining time at the top of the screen. (/toggle timer)</p>
             </div>
             <div class="tab-pane" id="tab3">
               <strong>/report</strong>
