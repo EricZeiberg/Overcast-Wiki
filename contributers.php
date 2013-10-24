@@ -85,6 +85,12 @@
             <p class="text-center">zacharycraft777</p>
             </a>
           </li>
+          <li class="span2">
+            <a href="https://oc.tc/BobRingard" class="thumbnail">
+            <img src="https://minotar.net/avatar/BobRingard/150" alt="BobRingard" width="150" height="150" />
+            <p class="text-center">BobRingard</p>
+            </a>
+          </li>
         </ul>
         <hr>
       </div>
