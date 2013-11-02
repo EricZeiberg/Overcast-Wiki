@@ -8,8 +8,8 @@ include("includes/functions.php");
 <title>Error 404</title>
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <link href="style.css" rel="stylesheet" media="screen">
-    <link href="highlight.css" rel="stylesheet" media="screen">
+    <link href="assets/css/style.css" rel="stylesheet" media="screen">
+    <link href="assets/css/highlight.css" rel="stylesheet" media="screen">
     <link href="assets/ico/favicon.ico" rel="icon">
 <body>
     <?php
