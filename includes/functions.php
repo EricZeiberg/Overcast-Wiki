@@ -80,7 +80,7 @@ function pageHeader($selected)
     
   <div class="navbar-inner">
       <div class = "container">
-        <a class="brand" href="index.php"><img src="small.png"> Overcast Network Wiki</a>
+        <a class="brand" href="index.php"><img src="assets/img/small.png"> Overcast Network Wiki</a>
         <ul class="nav">
 ';
 
@@ -109,7 +109,7 @@ function pageHeader($selected)
     {
         if($i['type'] == "dropdown")
         {
-            $section = "         <li class=\"active\"><a href=\"".$i['href']."\"><i class=\"".$i['icon']."\"></i>  ".$l."</a></li>\n";
+            $section = "         <li><a href=\"".$i['href']."\"><i class=\"".$i['icon']."\"></i>  ".$l."</a></li>\n";
             echo $section;
         }       
     }
