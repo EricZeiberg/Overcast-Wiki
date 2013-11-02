@@ -109,7 +109,7 @@ function pageHeader($selected)
     {
         if($i['type'] == "dropdown")
         {
-            $section = "         <li class=\"active\"><a href=\"".$i['href']."\"><i class=\"".$i['icon']."\"></i>  ".$l."</a></li>\n";
+            $section = "         <li><a href=\"".$i['href']."\"><i class=\"".$i['icon']."\"></i>  ".$l."</a></li>\n";
             echo $section;
         }       
     }
