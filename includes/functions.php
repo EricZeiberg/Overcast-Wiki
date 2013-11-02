@@ -80,7 +80,7 @@ function pageHeader($selected)
     
   <div class="navbar-inner">
       <div class = "container">
-        <a class="brand" href="index.php"><img src="small.png"> Overcast Network Wiki</a>
+        <a class="brand" href="index.php"><img src="assets/img/small.png"> Overcast Network Wiki</a>
         <ul class="nav">
 ';
 
