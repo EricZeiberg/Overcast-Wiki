@@ -8,8 +8,8 @@ include("includes/functions.php");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <link href="style.css" rel="stylesheet" media="screen">
-    <link href="highlight.css" rel="stylesheet" media="screen">
+    <link href="assets/css/style.css" rel="stylesheet" media="screen">
+    <link href="assets/css/highlight.css" rel="stylesheet" media="screen">
     <link href="assets/ico/favicon.ico" rel="icon">
   </head>
   <body>
