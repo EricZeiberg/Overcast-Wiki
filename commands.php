@@ -4,7 +4,7 @@ include("includes/functions.php");
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Overcast Network Wiki</title>
+    <title>Overcast Network Wiki - Commands</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">

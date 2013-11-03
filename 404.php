@@ -5,7 +5,7 @@ include("includes/functions.php");
 <style>
   .center {text-align: center; margin-left: auto; margin-right: auto; margin-bottom: auto; margin-top: auto;}
 </style>
-<title>Error 404</title>
+<title>Overcast Network Wiki - Error 404</title>
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="assets/css/style.css" rel="stylesheet" media="screen">
