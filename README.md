@@ -17,7 +17,7 @@ All Pull Requests submitted *must* follow these guidelines or they will be marke
 
 1. The PR must contain actual code; no walls of text.
 2. The PR must be a useful contribution.
-  * PRs adding new pages with inaccurate content are not acceptable.
+  * PRs adding inaccurate information will be rejected.
 3. PRs must use the latest fork of the repo.
 4. Ensure you're not submitting a duplicate PR by searching before submitting.
 5. These guidelines are subject to change at any time.
