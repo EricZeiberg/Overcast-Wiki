@@ -37,7 +37,8 @@ include("includes/functions.php");
             <li><a href="#tab8" data-toggle="tab">/map</a></li>
             <li><a href="#tab9" data-toggle="tab">/rot</a></li>
             <li><a href="#tab10" data-toggle="tab">/mapnext</a></li>
-            <li><a href="#tab11" data-toggle="tab">/staff</a></li>
+            <li><a href="#tab11" data-toggle="tab">/lookup</a></li>
+            <li><a href="#tab12" data-toggle="tab">/staff</a></li>
           </ul>
           <div class="tab-content">
             <div class="tab-pane active" id="tab1">
@@ -147,7 +148,16 @@ include("includes/functions.php");
               <strong>Other info:</strong>
               <p>Shortened to <b>/mn</b></p>
             </div>
-            <div class="tab-pane" id="tab11">
+             <div class="tab-pane" id="tab11">
+              <strong>/lookup</strong>
+              <strong>Usage:</strong>
+              <p>/lookup [@]<player></p>
+              <strong>About:</strong>
+              <p>Shows warns, kick or bans from a player.</p>
+              <strong>Other info:</strong>
+              <p>If you wan't to see offline player add @, like: @Notch</p>
+            </div>
+            <div class="tab-pane" id="tab12">
               <strong>/staff</strong>
               <strong>Usage:</strong>
               <p>/staff [server] [-a]</p>
