@@ -38,7 +38,7 @@
         </a>
         <div class="media-body">
           <h4 class="media-heading">Decanus</h4>
-          <p>You can buy this badge <a href="http://oc.tc/shop">here</a>. It is $5 for 30 days of perks. It gives you a black badge on the website but no asterisk in game.</p>
+          <p>This used to be a black themed badge, but was recently deprecated as of December 23, 2013. It used to be found at <a href="http://oc.tc/shop">here</a>. It was $5 for 30 days of perks and it gave you a black badge on the website but no asterisk in game.</p>
           <p>Example: <a href="http://i.imgur.com/1Bblvla.png">bleangamer</a></p>
         </div>
       </div>
@@ -149,8 +149,8 @@
         </a>
         <div class="media-body">
           <h4 class="media-heading">Junior Moderator</h4>
-          <p>These are staff that are less experienced than normal moderators. It is basically a stepping stone for new moderators. The admins will see how mature each one is and decide whether or not to mod them completely. After a two week period, the final decision is made. They can do everything that moderators can do except end/setnext maps.</p>
-          <p>Example: <a href="https://oc.tc/PlasmaCross">PlasmaCross</a></p>
+          <p>These are staff that are less experienced than normal moderators. It is basically a stepping stone for new moderators. The admins will see how mature each one is and decide whether or not to mod them completely. After a two week period, the final decision is made. They can do everything that moderators can do except end/setnext maps, and use WorldEdit commands (with the exception of few such as //drain).</p>
+          <p>Example: <a href="https://oc.tc/iamramsey">iamramsey</a></p>
         </div>
       </div>
     </div>
@@ -164,8 +164,8 @@
         </a>
         <div class="media-body">
           <h4 class="media-heading">Senior Moderator</h4>
-          <p><i>This page is pending update.</i></p>
-          <p>Example: <a href="https://oc.tc/McSpider">McSpider</a></p>
+          <p>Senior Moderators are former moderators who are given a rank similar to administrator in which lets them moderate the forums. They get a dark-red flair in game and a maroon badge on the site. </p>
+          <p>Example: <a href="https://oc.tc/PandaBattalion">PandaBattalion</a></p>
         </div>
       </div>
     </div>
