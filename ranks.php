@@ -172,6 +172,21 @@
     <div class="container">
       <hr>
     </div>
+    <div class="media">
+      <div class="container">
+        <a class="pull-left" href="#">
+          <span class="label" style="background-color: #A00; color: white">Supreme Overlord</span>
+        </a>
+        <div class="media-body">
+          <h4 class="media-heading">Supreme Overlord</h4>
+          <p>The two Supreme Overlords are long-time friends of MonsieurApple. They have the same abilities as administrators.</p>
+          <p>Examples: <a href="https://oc.tc/McYukon">McYukon</a> &amp; <a href="https://oc.tc/McSpider">McSpider</a>.</p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <hr>
+    </div>
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <div class="container">
