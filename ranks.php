@@ -19,7 +19,7 @@
     <div class = "container">
       <div class ="jumbotron">
         <h1>Ranks</h1>
-        <p>All the ranks on OCN. (Written by goodbobul)</p>
+        <p>All the ranks on OCN. (Written by GoodBobul and ParaSpider)</p>
       </div>
     </div>
     <div class="container">
@@ -84,7 +84,7 @@
         <div class="media-body">
           <h4 class="media-heading">Dux</h4>
           <p>You can buy this badge <a href="http://oc.tc/shop">here</a>. It gives you unlimited donor perks for $50. You get a purple badge on the website and a purple asterisk in game. This gives you all of the perks that donors before the donation update got, including no expiry. However, it is five times the price.</p>
-          <p>Example: <a href="https://oc.tc/goodbobul">goodbobul</a></p>
+          <p>Example: <a href="https://oc.tc/GoodBobul">GoodBobul</a></p>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@
         </a>
         <div class="media-body">
           <h4 class="media-heading">Administrator</h4>
-          <p>An Admin has an orange/yellow badge on the forums and is represented by and in game yellow star. They can ban/warn/kick/freeze people, set the next map on a server and use /give. The can also moderate the forums and delete and lock topics. The admins are "in control" of the mods. We currently have seven admins.</p>
+          <p>An Admin has an orange/yellow badge on the forums and is represented by a yellow flair in-game. They can also moderate the forums and delete and lock topics. The admins are "in control" of the mods. We currently have six admins. Administrators have access to all operator commands and can moderate.</p>
           <p>Example: <a href="https://oc.tc/MonsieurApple">MonsieurApple</a></p>
         </div>
       </div>
@@ -119,7 +119,7 @@
         </a>
         <div class="media-body">
           <h4 class="media-heading">Developer</h4>
-          <p> This is someone who have helped with the coding of the plugin (PGM) or the website. They have a purple badge. They do not get an in-game asterisk.</p>
+          <p> This is someone who have helped with the coding of the plugin (PGM) or the website. They have a purple badge. They do not get an in-game flairs.</p>
           <p>Example: <a href="https://oc.tc/Anxuiz">Anxuiz</a></p>
         </div>
       </div>
@@ -130,11 +130,11 @@
     <div class="media">
       <div class = "container">
         <a class="pull-left" href="#">
-        <span class="label" style="background-color: #F55; color: white">Moderator</span>
+        <span class="label" style="background-color: #F20; color: white">Moderator</span>
         </a>
         <div class="media-body">
           <h4 class="media-heading">Moderator</h4>
-          <p>  A moderator has a red badge on the forums and is represented by a red star in game. They have the abilities of an admin in the game except for the /give commend and they cannot moderate the forums. Project Ares does not accept moderator requests and the admins choose who to mod next and invite them privately. Do not ask for mod as it greatly decreases your chances of getting it.</p>
+          <p>  A moderator has a bright red badge on the forums and is represented by a red star in game. They have the abilities of an admin in game except for promotion and other features of CommandBook. They cannot moderate the forums however take note that Overcast Network does not accept moderator requests and the admins choose who to mod next and invite them privately. Do not ask for mod as it greatly decreases your chances of getting it.</p>
           <p>Example: <a href="https://oc.tc/Beebou">Beebou</a></p>
         </div>
       </div>
@@ -150,7 +150,7 @@
         <div class="media-body">
           <h4 class="media-heading">Junior Moderator</h4>
           <p>These are staff that are less experienced than normal moderators. It is basically a stepping stone for new moderators. The admins will see how mature each one is and decide whether or not to mod them completely. After a two week period, the final decision is made. They can do everything that moderators can do except end/setnext maps, and use WorldEdit commands (with the exception of few such as //drain).</p>
-          <p>Example: <a href="https://oc.tc/iamramsey">iamramsey</a></p>
+          <p>Example: <a href="https://oc.tc/DracoSkull">DracoSkull</a></p>
         </div>
       </div>
     </div>
@@ -181,6 +181,42 @@
           <h4 class="media-heading">Supreme Overlord</h4>
           <p>The two Supreme Overlords are long-time friends of MonsieurApple. They have the same abilities as administrators.</p>
           <p>Examples: <a href="https://oc.tc/McYukon">McYukon</a> &amp; <a href="https://oc.tc/McSpider">McSpider</a>.</p>
+        </div>
+      </div>
+    </div>
+    <div class="media">
+      <div class="container">
+        <a class="pull-left" href="#">
+          <span class="label" style="background-color: blue; color: white">Map Developer</span>
+        </a>
+        <div class="media-body">
+          <h4 class="media-heading">Map Developer</h4>
+          <p>Map Developers are highly trusted people that have access to what maps can be added and what maps cannot. They have full access to the maps repo on Github, and they get their own servers to where they can test them. They are represented by a blue badge but do not get a flair in-game.</p>
+          <p>Example: <a href="https://oc.tc/ElectroidFilms">ElectroidFilms</p>
+        </div>
+      </div>
+    </div>
+    <div class="media">
+      <div class="container">
+        <a class="pull-left" href="#">
+          <span class="label" style="background-color: darkcyan; color: white">Senior Referees</span>
+        </a>
+        <div class="media-body">
+          <h4 class="media-heading">Senior Referees</h4>
+          <p>Senior Referees are the main people who make tournaments happen. They manage the referees and livestreamers + manage the tournament itself to make sure it's a fair and fun enviorment.</p>
+          <p>Example: <a href="https://oc.tc/BrettOdgen">BrettOdgen</a>
+        </div>
+      </div>
+    </div>
+    <div class="media">
+      <div class="container">
+        <a class="pull-left" href="#">
+          <span class="label" style="background-color: teal; color: white">Referee</span>
+        </a>
+        <div class="media-body">
+          <h4 class="media-heading">Referee</h4>
+          <p>The referees are supervisors of the tournament to make sure there are no cheaters with the ability to notify a senior referee at a moment's notice. They are prioritized with assisting the tournament. To become one, wait for a tourney to be announced and a thread will usually appoint you. They are usually shown on the staff page.</p>
+          <p>Examples: <a href="http://i.imgur.com/swC0YHT.png">Plastix</a>
         </div>
       </div>
     </div>
