@@ -204,7 +204,7 @@
         <div class="media-body">
           <h4 class="media-heading">Senior Referees</h4>
           <p>Senior Referees are the main people who make tournaments happen. They manage the referees and livestreamers + manage the tournament itself to make sure it's a fair and fun enviorment.</p>
-          <p>Example: <a href="https://oc.tc/BrettOdgen">BrettOdgen</a>
+          <p>Example: <a href="https://oc.tc/BrettOgden">BrettOgden</a>
         </div>
       </div>
     </div>
