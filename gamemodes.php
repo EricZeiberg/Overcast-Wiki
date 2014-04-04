@@ -34,6 +34,11 @@
             <li><a href="#tab6" data-toggle="tab">Rage</a></li>
             <li><a href="#tab7" data-toggle="tab">King Of the Hill</a></li>
             <li><a href="#tab8" data-toggle="tab">Ghost Squadron</a></li>
+            <li><a href="#tab9" data-toggle="tab">Conquest</a></li>
+            <li><a href="#tab10" data-toggle="tab">Arcade</a></li>
+            <li><a href="#tab11" data-toggle="tab">Blasternauts</a></li>
+            <li><a href="#tab12" data-toggle="tab">Race</a></li>
+            <li><a href="#tab13" data-toggle="tab">King's Conquest</a></li>
           </ul>
           <div class="tab-content">
             <div class="tab-pane active" id="tab1">
@@ -93,6 +98,30 @@
               <h2>Ghost Squadron (By SethBling)</h2>
               <hr>
               <p>GS is basically where you spawn with a selected kit and are invisible, trying to kill other invisible people on the other team. It's weird! The main idea behind these maps is to find ways of detecting invisible players and killing them. A big part of these maps is the terrain. Symmetry is not <i>as</i> important as other maps. Do /classes to see a list of classes, and /class (class name here) to change a class. Note that you can only change classes before game, and that you cannot join mid-game and must wait until the next map if you do not join at the start.</p>
+            </div>
+            <div class="tab-pane" id="tab9">
+              <h2>Conquest</h2>
+              <hr>
+              <p>Conquest is a gamemode where you are placed into a map and your goal is to build up gear to fight off the hoardes of the enemy team, similar to survival. You are then supposed to kill the enemy team like a TDM, except that once you kill another player, they are transferred onto your team. If you die, you go onto the team that killed you.</p>
+            </div>
+            <div class="tab-pane" id="tab10">
+              <h2><b>Arcade</b></h2>
+              <hr>
+            </div>
+            <div class="tab-pane" id="tab11">
+              <h2>Blasternauts</h2>
+              <hr>
+              <p>Blasternauts is a gamemode where you have to kill the enemy team(s) using only TNT, grenades, and other explosive goods! Whichever team reaches the most points within a certain amount of time wins! This gamemode was created by ItsMiiOlly and has been carried out in currently 3 maps; BN: Classic, BN: Overdrive, and BN: Obsidizone.</p>
+            </div>
+             <div class="tab-pane" id="tab12">
+              <h2>Race</h2>
+              <hr>
+              <p>Race is a gamemode where you are paired up with several other players within a set amount of time to race to the finish line and win. This includes powerups as such to make it harder for the enemy to win. If you land into the finish line (scorebox) you get 1 point. If you get enough, you are the victor!</p>
+            </div>
+            <div class="tab-pane" id="tab13">
+              <h2>King's Conquest</h2>
+              <hr>
+              <p>You are given a set amount of classes and your goal is to take out the other enemy's king! There is only 1 king and you have 2 lives. If you are a king, you only have 1. Whoever kills the enemy's king first or is killed by the other team wins!</p>
             </div>
           </div>
         </div>
