@@ -60,6 +60,11 @@
             <img src="https://minotar.net/avatar/PhoenixMatt/150" alt="PhoenixMatt" width="150" height="150" />
             <p class="text-center">PhoenixMatt</p>
             </a>
+          <li class="span2">
+            <a href="http://github.com/TheMasterCow" class="thumbnail">  
+            <img src="https://minotar.net/avatar/ParaSpider/150" alt="ParaSpider" width="150" height="150" />
+            <p class="text-center">ParaSpider</p>
+            </a>  
           </li>
           <li class="span2">
             <a href="http://oc.tc/Oversoul96" class="thumbnail">  
