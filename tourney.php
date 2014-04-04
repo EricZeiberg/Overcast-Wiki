@@ -76,9 +76,9 @@
                   Winner: Upper -&nbsp;Starfish &nbsp; &nbsp; &nbsp;Lower - Tasty Mofo's<br>Teams: <a href="https://oc.tc/tournaments/raiders-of-the-lost-wool">Here</a><br>Bracket: <a href="http://challonge.com/raiders">Upper</a> <a>Lower</a><br>Gamemode: CTW<br><br>
                   <h3>3d - Goblet of Gamemodes</h3>
                   Winner: Starfish<br>Teams: <a href="https://oc.tc/tournaments/goblet-of-gamemodes">Here</a><br>Bracket: <a href="http://challonge.com/goblet">Here</a><br>Gamemode: All<br><br>
-                  <h3>4e - Return of the Hill</h3>
+                  <h3>3e - Return of the Hill</h3>
                   Winner: Gamemode 1<br>Teams: <a href="https://oc.tc/tournaments/return-of-the-hill">Here</a><br>Bracket: <a href="http://challonge.com/ocnroth">Here</a><br>Gamemode: All<br><br>
-                  <h3>5f - Breaking Core</h3>
+                  <h3>3f - Breaking Core</h3>
                   Winner: LunGGlove<br>Teams: <a href="https://oc.tc/tournaments/breaking-core">Here</a><br>Bracket: <a href="http://ocn.challonge.com/bc">Here</a><br>Gamemode: DTC/DTM<br>
                   <ul>
                     <li><u><b></b></u></li>
