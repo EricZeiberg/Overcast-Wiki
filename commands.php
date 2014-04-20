@@ -71,6 +71,8 @@ include("includes/functions.php");
               <p>See the scoreboard with game info. (/toggle scoreboard)</p>
               <strong>Timer:</strong>
               <p>Show remaining time at the top of the screen. (/toggle timer)</p>
+              <strong>Sounds:</strong>
+              <p>Turns off/on game sounds that are played to you during a game countdown, when a objective has been compleated or when the match ends<p>
             </div>
             <div class="tab-pane" id="tab3">
               <strong>/report</strong>
@@ -155,6 +157,15 @@ include("includes/functions.php");
               <p>Displays staff on the current server, on the specified server, or on all servers if -a is specified.</p>
               <strong>Other info:</strong>
               <p>N/A</p>
+            </div>
+            <div class="tab-pane" id="tab12">
+              <strong>/find</strong>
+              <strong>Usage:</strong>
+              <p>/find [player]</p>
+              <strong>About:</strong>
+              <p>Shows when a player was last online and how long they have been offilne for, aswell as what server they were last seen on</p>
+              <strong>Other indo:</strong>
+              <p>the command /seen can also be used to achive the same info</p>
             </div>
           </div>
         </div>
