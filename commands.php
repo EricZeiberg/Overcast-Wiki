@@ -71,6 +71,8 @@ include("includes/functions.php");
               <p>See the scoreboard with game info. (/toggle scoreboard)</p>
               <strong>Timer:</strong>
               <p>Show remaining time at the top of the screen. (/toggle timer)</p>
+              <strong>Sounds:</strong>
+              <p>Turns off/on game sounds that are played to you during a game countdown, when a objective has been compleated or when the match ends<p>
             </div>
             <div class="tab-pane" id="tab3">
               <strong>/report</strong>
