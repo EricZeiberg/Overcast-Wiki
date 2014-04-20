@@ -19,7 +19,6 @@
 <div class = "container">
       <div class="alert alert-error">
   <button type="button" class="close" data-dismiss="alert alert-error">&times;</button>
-  <strong>Alert!</strong> The wiki recently underwent a rewrite into PHP. If you find any bugs, report them <a href="https://github.com/MasterEjay/Overcast-Wiki/issues">here</a>.
 </div>
 </div>
     <div class = "container">
