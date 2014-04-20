@@ -158,6 +158,15 @@ include("includes/functions.php");
               <strong>Other info:</strong>
               <p>N/A</p>
             </div>
+            <div class="tab-pane" id="tab12">
+              <strong>/find</strong>
+              <strong>Usage:</strong>
+              <p>/find [player]</p>
+              <strong>About:</strong>
+              <p>Shows when a player was last online and how long they have been offilne for, aswell as what server they were last seen on</p>
+              <strong>Other indo:</strong>
+              <p>the command /seen can also be used to achive the same info</p>
+            </div>
           </div>
         </div>
       </div>
