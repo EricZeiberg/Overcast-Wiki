@@ -184,6 +184,9 @@
         </div>
       </div>
     </div>
+    <div class="container">
+      <hr>
+    </div>
     <div class="media">
       <div class="container">
         <a class="pull-left" href="#">
@@ -196,6 +199,9 @@
         </div>
       </div>
     </div>
+    <div class="container">
+      <hr>
+    </div>
     <div class="media">
       <div class="container">
         <a class="pull-left" href="#">
@@ -207,6 +213,9 @@
           <p>Example: <a href="https://oc.tc/BrettOgden">BrettOgden</a>
         </div>
       </div>
+    </div>
+    <div class="container">
+      <hr>
     </div>
     <div class="media">
       <div class="container">
