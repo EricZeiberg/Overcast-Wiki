@@ -73,7 +73,13 @@ include("includes/functions.php");
               <strong>Timer:</strong>
               <p>Show remaining time at the top of the screen. (/toggle timer)</p>
               <strong>Sounds:</strong>
-              <p>Turns off/on game sounds that are played to you during a game countdown, when a objective has been compleated or when the match ends<p>
+              <p>Turns off/on game sounds that are played to you during a game countdown, when a objective has been compleated or when the match ends.(/toggle sounds)<p>
+              <strong>ChatModerator</strong>
+              <p>Toggles the sensitivity of what chatmoderaor will let you send and recive. (/toggle ChatModerator)</p>
+              <p>There are three togglable options:</p>
+              <p>None: This is the most passive filter level. You will receive all “offensive” messages, regardless of intensity. However, you will not receive advertisements or other pre-filtered content.</p>
+              <p>Offensive: You will not receive messages that contain excessively vulgar or profane content. This filter is more lenient than the “all” filter level, but will still weed out particularly toxic chat.
+              <p>All: You will not receive messages containing any “offensive” content.  (For example, if a single profanity is sent, you won’t see it). This is the most “strict” option, and it is designed for those who are particularly averse to profanity.
             </div>
             <div class="tab-pane" id="tab3">
               <strong>/report</strong>
