@@ -90,7 +90,7 @@
 }
 
 .jumbotron:after {
-    background: url("../assets/img/grid-15px.png") repeat scroll center center transparent;
+    background: url("/assets/img/grid-15px.png") repeat scroll center center transparent;
     content: '';
     display: block;
     position: absolute;
