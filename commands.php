@@ -38,6 +38,7 @@ include("includes/functions.php");
             <li><a href="#tab9" data-toggle="tab">/rot</a></li>
             <li><a href="#tab10" data-toggle="tab">/mapnext</a></li>
             <li><a href="#tab11" data-toggle="tab">/staff</a></li>
+            <li><a href="#tab12" data-toggle="tab">/find</a></li>
           </ul>
           <div class="tab-content">
             <div class="tab-pane active" id="tab1">
@@ -163,9 +164,10 @@ include("includes/functions.php");
               <strong>Usage:</strong>
               <p>/find [player]</p>
               <strong>About:</strong>
-              <p>Shows when a player was last online and how long they have been offilne for, aswell as what server they were last seen on</p>
-              <strong>Other indo:</strong>
-              <p>the command /seen can also be used to achive the same info</p>
+              <p>If online, shows the specified player's current server, if their settings permit, or their team colour if they are on the same server as the issuer.<br />
+              If offline, shows when a player was last online and how long they have been offline for, as well as what server they were last seen on.</p>
+              <strong>Other info:</strong>
+              <p>The command /seen can also be used to retrieve the same information</p>
             </div>
           </div>
         </div>
