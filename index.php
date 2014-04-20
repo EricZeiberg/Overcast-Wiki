@@ -24,7 +24,7 @@
     </div>
     <div class="container">
       <div class = "headtext">
-        <h2>Welcome</h2>
+        <h2>Welcome.</h2>
       </div>
     </div>
     <div class="container">
