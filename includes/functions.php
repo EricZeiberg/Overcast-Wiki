@@ -21,9 +21,6 @@ function pageFooter()
 <li class ="pull-right" >
 <a href="contributers.php">Contributors</a>
 </li>
-<li class ="pull-right" >
-<a href="http://ocnblog.com">Blog</a>
-</li>
 </ul>
 </footer>
 </div>';
