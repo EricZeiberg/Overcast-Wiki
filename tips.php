@@ -73,13 +73,13 @@
               <h5>Things you should not do in a sword fight </h5>
               <p>Running backwards and swinging your sword will let your enemy have an easier time hitting you, while he remains out of your reach (because thats just how this game works). Running away would be a better tactic than swinging while walking backwards.</p>
               <h5>Combos</h5>
-              <p>This is the act of continuously hitting someone and laying down many hits on them</p>
-              <p>This technique makes it particularly hard for your oponent to counter and break out of the non-stop hits<p>
+              <p>This is the act of continuously hitting someone and laying down many hits on them.</p>
+              <p>This technique makes it particularly hard for your opponent to counter and break out of the non-stop hits.<p>
               <h5>Block Hitting</h5>
-              <p>This is blocking with your sword as you are also hitting with it</p>
-              <p>It is achived by spamming both you left and right mouse buttons</p>
-              <p>This technique is effective when your opponent is laying down hits on you at the sane time as you are hittig him</p>
-              <p>By doing this each hit that your oponent makes while you are blocking will be reduced by half</p> 
+              <p>This is blocking and hitting with your sword at the same time.</p>
+              <p>It is achieved by spamming both your left and right mouse buttons simultaneously.</p>
+              <p>This technique is effective when your opponent is laying down hits on you at the same time as you are hitting him.</p>
+              <p>By doing this, each hit that your opponent makes while you are blocking will be reduced by half.</p> 
               <h4><u>Destroy the Core</u></h4>
               <p>Right here is where the fun begins. I will be showing you some of my own tactics, as well as other things I think will help you all for these maps. The main topics I will be discussing are the core, stealth, bridging, and speed. I will also tell you a few tricks for surviving in a losing battle.</p>
               <h5>The Core</h5>
