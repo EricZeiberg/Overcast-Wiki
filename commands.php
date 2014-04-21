@@ -39,6 +39,7 @@ include("includes/functions.php");
             <li><a href="#tab10" data-toggle="tab">/mapnext</a></li>
             <li><a href="#tab11" data-toggle="tab">/staff</a></li>
             <li><a href="#tab12" data-toggle="tab">/find</a></li>
+            <li><a href="#tab13" data-toggle="tab">/lookup</a></li>
           </ul>
           <div class="tab-content">
             <div class="tab-pane active" id="tab1">
@@ -174,6 +175,18 @@ include("includes/functions.php");
               If offline, shows when a player was last online and how long they have been offline for, as well as what server they were last seen on.</p>
               <strong>Other info:</strong>
               <p>The command /seen can also be used to retrieve the same information</p>
+            </div>
+            <div class="tab-pane" id="tab13">
+            <strong>/lookup</strong>
+            <strong>Usage:</strong>
+            <p>/lookup [player]</p>
+            <strong>About</strong>
+            <p>Returns a list of the players infrations, including: Punisher, Punisment, Punisment Message</p>
+            <strong>Other Info:</strong>
+            <p>using a <code>"@"</code> before the name will look for a offline players infractions</p>
+            <p>Without it it will look for online players</p>
+            <br>
+            <p>/l can also be used to retrive te same information</p>
             </div>
           </div>
         </div>
