@@ -208,8 +208,8 @@
           <span class="label" style="background-color: darkcyan; color: white">Tournament</span>
         </a>
         <div class="media-body">
-          <h4 class="media-heading">Tournament peopl:</h4>
-          <p>Tournament people are the main people who make tournaments happen. They manage the referees and livestreamers + manage the tournament itself to make sure it's a fair and fun enviorment. They were called "senior referees" in the past.</p>
+          <h4 class="media-heading">Tournament:</h4>
+          <p>The Tournament rank is for the main people who make tournaments happen. They manage the referees and livestreamers & manage the tournament itself to make sure it's a fair and fun environment. They were called "senior referees" in the past.</p>
           <p>Example: <a href="https://oc.tc/BrettOgden">BrettOgden</a>
         </div>
       </div>
