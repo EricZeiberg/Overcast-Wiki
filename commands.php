@@ -181,12 +181,9 @@ include("includes/functions.php");
             <strong>Usage:</strong>
             <p>/lookup [player]</p>
             <strong>About</strong>
-            <p>Returns a list of the players infrations, including: Punisher, Punisment, Punisment Message</p>
+            <p>Returns a list of the player's infractions, including: punisher, punishment type and reason.</p>
             <strong>Other Info:</strong>
-            <p>using a <code>"@"</code> before the name will look for a offline players infractions</p>
-            <p>Without it it will look for online players</p>
-            <br>
-            <p>/l can also be used to retrive te same information</p>
+            <p>@player can be used to lookup an offline player.</p>
             </div>
           </div>
         </div>
