@@ -205,11 +205,11 @@
     <div class="media">
       <div class="container">
         <a class="pull-left" href="#">
-          <span class="label" style="background-color: darkcyan; color: white">Senior Referees</span>
+          <span class="label" style="background-color: darkcyan; color: white">Tournament</span>
         </a>
         <div class="media-body">
-          <h4 class="media-heading">Senior Referees</h4>
-          <p>Senior Referees are the main people who make tournaments happen. They manage the referees and livestreamers + manage the tournament itself to make sure it's a fair and fun enviorment.</p>
+          <h4 class="media-heading">Tournament peopl:</h4>
+          <p>Tournament people are the main people who make tournaments happen. They manage the referees and livestreamers + manage the tournament itself to make sure it's a fair and fun enviorment. They were called "senior referees" in the past.</p>
           <p>Example: <a href="https://oc.tc/BrettOgden">BrettOgden</a>
         </div>
       </div>
