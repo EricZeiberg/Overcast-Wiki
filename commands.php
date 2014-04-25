@@ -94,19 +94,17 @@ include("includes/functions.php");
             <div class="tab-pane" id="tab4">
               <strong>Global Chat</strong>
               <strong>Usage:</strong>
-              <p>/g</p>
+              <p>/g if you want to have the global chat as your default chat or /g <message> if you just want to send 1 message and keep the team chat as default chat.</p>
               <strong>Team Chat</strong>
               <strong>Usage:</strong>
-              <p>/t</p>
-              <strong>About:</strong>
-              <p>Toggles if your messages are constantly in global chat or team chat.</p>
+              <p>/t if you want to have the team chat as your default chat or /t <message> if you just want to send 1 message and keep the global chat as default chat.</p>
               <strong>Other info:</strong>
               <p>This does not apply in the Lobby server, and was recently implemented.</p>
             </div>
             <div class="tab-pane" id="tab5">
-              <strong>/msg</strong>
+              <strong>/msg or /pm</strong>
               <strong>Usage:</strong>
-              <p>/msg [name] [message]</p>
+              <p>/msg [name] [message] or /pm [name] [message]</p>
               <strong>About:</strong>
               <p>Sends a message to a certain player. Only that player can see the message</p>
               <strong>Other info:</strong>
