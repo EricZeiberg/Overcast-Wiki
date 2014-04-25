@@ -39,7 +39,6 @@
         <div class="media-body">
           <h4 class="media-heading">Decanus</h4>
           <p>This used to be a black themed badge, but was recently deprecated as of December 23, 2013. It used to be found at <a href="http://oc.tc/shop">here</a>. It was $5 for 30 days of perks and it gave you a black badge on the website but no asterisk in game.</p>
-          <p>Example: <a href="http://i.imgur.com/1Bblvla.png">bleangamer</a></p>
         </div>
       </div>
     </div>
@@ -54,7 +53,6 @@
         <div class="media-body">
           <h4 class="media-heading">Optio</h4>
           <p>You can buy this badge <a href="http://oc.tc/shop">here</a>. It is $10 for 60 days of perks. It gives you a green badge on the website and a green asterisk in-game.</p>
-          <p>Example: <a href="http://i.imgur.com/seNHdGA.png">Without_Regret</a></p>
         </div>
       </div>
     </div>
@@ -69,7 +67,6 @@
         <div class="media-body">
           <h4 class="media-heading">Centurion</h4>
           <p>You can buy this badge <a href="http://oc.tc/shop">here</a>. This gives you 180 days for $25. It also gives a yellow badge on the website and a yellow asterisk in game. The perks that donors got before the donor update are included in this package.</p>
-          <p>Example: <a href="http://i.imgur.com/kIaO0nJ.png">Magic_Mat</a></p>
         </div>
       </div>
     </div>
@@ -224,8 +221,7 @@
         </a>
         <div class="media-body">
           <h4 class="media-heading">Referee</h4>
-          <p>The referees are supervisors of the tournament to make sure there are no cheaters with the ability to notify a senior referee at a moment's notice. They are prioritized with assisting the tournament. To become one, wait for a tourney to be announced and a thread will usually appoint you. They are usually shown on the staff page.</p>
-          <p>Examples: <a href="http://i.imgur.com/swC0YHT.png">Plastix</a>
+          <p>The referees are supervisors of the tournament to make sure there are no cheaters with the ability to notify a senior referee at a moment's notice. They are prioritized with assisting the tournament. To become one, wait for a tourney to be announced and a thread will usually appoint you. They are usually shown on the staff page. They earn a trophy after being a referee.</p>
         </div>
       </div>
     </div>
