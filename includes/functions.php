@@ -19,7 +19,7 @@ function pageFooter()
 <a href="https://github.com/MasterEjay/Overcast-Wiki">GitHub Repo</a>
 </li>
 <li class ="pull-right" >
-<a href="contributers.php">Contributors</a>
+<a href="contributors.php">Contributors</a>
 </li>
 </ul>
 </footer>
