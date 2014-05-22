@@ -56,8 +56,8 @@
               <strong>
                 <p>Terminology: </p>
               </strong>
-              <p>Tunnelers: Players that mine their way until they reach the monument.
-              <p> Rushers: Players that rush to the enemys side right at the beginning of the match.</p>
+              <p>Tunnellers: Players that mine their way until they reach the monument.
+              <p> Rushers: Players that rush to the enemy's side right at the beginning of the match.</p>
               DTM: Destroy The Monument.</p>
             </div>
             <div class="tab-pane" id="tab3">
@@ -71,7 +71,7 @@
               <strong>
                 <p>Terminology: </p>
               </strong>
-              <p>Tunnelers: Players that mine their way through the enemy lanes in order to reach the wool room. </p>
+              <p>Tunnellers: Players that mine their way through the enemy lanes in order to reach the wool room. </p>
               <p>Rushers: Players that rush to the enemy's side right at the beginning of the match.</p>
             </div>
             <div class="tab-pane" id="tab4">
@@ -102,11 +102,12 @@
             <div class="tab-pane" id="tab9">
               <h2>Conquest</h2>
               <hr>
-              <p>Conquest is a gamemode where you are placed into a map and your goal is to build up gear to fight off the hoardes of the enemy team, similar to survival. You are then supposed to kill the enemy team like a TDM, except that once you kill another player, they are transferred onto your team. If you die, you go onto the team that killed you.</p>
+              <p>Conquest is a gamemode where you are placed into a map and your goal is to build up gear to fight off the hoards of the enemy team, similar to survival. You are then supposed to kill the enemy team like a TDM, except that once you kill another player, they are transferred onto your team. If you die, you go onto the team that killed you.</p>
             </div>
             <div class="tab-pane" id="tab10">
-              <h2><b>Arcade</b></h2>
+              <h2>Arcade</h2>
               <hr>
+              <p>The arcade is currently in development.</p>
             </div>
             <div class="tab-pane" id="tab11">
               <h2>Blasternauts</h2>
