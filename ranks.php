@@ -208,8 +208,8 @@
           <span class="label" style="background-color: darkcyan; color: white">Tournament</span>
         </a>
         <div class="media-body">
-          <h4 class="media-heading">Tournament:</h4>
-          <p>The Tournament rank is for the main people who make tournaments happen. They manage the referees and livestreamers & manage the tournament itself to make sure it's a fair and fun environment. They were called "senior referees" in the past.</p>
+          <h4 class="media-heading">Event Coordinator</h4>
+          <p>The Event Coordinator rank is for the main people who make official events happen. They manage the referees and livestreamers, and manage the event itself to make sure it's a fair and fun environment. They were called 'Senior Referees', 'Tournament', 'Tournament Organiser' and 'Cyan People' in the past.</p>
           <p>Example: <a href="https://oc.tc/BrettOgden">BrettOgden</a>
         </div>
       </div>
@@ -224,7 +224,7 @@
         </a>
         <div class="media-body">
           <h4 class="media-heading">Referee</h4>
-          <p>The referees are supervisors of the tournament to make sure there are no cheaters with the ability to notify a senior referee at a moment's notice. They are prioritized with assisting the tournament. To become one, wait for a tourney to be announced and a thread will usually appoint you. They are usually shown on the staff page.</p>
+          <p>The referees are supervisors of the event to make sure there are no cheaters with the ability to notify a senior referee at a moment's notice. They are prioritized with assisting the tournament. To become one, wait for a tourney to be announced and a thread will usually appoint you. They are usually shown on the staff page.</p>
           <p>Examples: <a href="http://i.imgur.com/swC0YHT.png">Plastix</a>
         </div>
       </div>
