@@ -205,7 +205,7 @@
     <div class="media">
       <div class="container">
         <a class="pull-left" href="#">
-          <span class="label" style="background-color: darkcyan; color: white">Tournament</span>
+          <span class="label" style="background-color: darkcyan; color: white">Event Coordinator</span>
         </a>
         <div class="media-body">
           <h4 class="media-heading">Event Coordinator</h4>
