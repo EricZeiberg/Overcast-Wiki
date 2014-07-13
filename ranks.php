@@ -224,7 +224,7 @@
         </a>
         <div class="media-body">
           <h4 class="media-heading">Referee</h4>
-          <p>The referees are supervisors of the event to make sure there are no cheaters with the ability to notify a senior referee at a moment's notice. They are prioritized with assisting the tournament. To become one, wait for a tourney to be announced and a thread will usually appoint you. They are usually shown on the staff page.</p>
+          <p>The referees are supervisors of the event to make sure there are no cheaters with the ability to notify a senior referee at a moment's notice. They are prioritized with assisting the tournament. Referee is a permanent rank, and applications are only opened when additional referees are required; previously, referee was a temporary rank and applications were opened for each tournament.</p>
           <p>Examples: <a href="http://i.imgur.com/swC0YHT.png">Plastix</a>
         </div>
       </div>
