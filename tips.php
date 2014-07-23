@@ -44,7 +44,7 @@
               <p>The things you will most likely want to grab are tools. A pick, sword, axe, and bow should be the first things you grab, along with some building blocks, some TNT, and some arrows. Take some redstone torches or buttons if you want, but you can always make simple wood pressure plates later.</p>
               <p>No matter what you're doing, you're always going to want to have armor in the beginning of the game. Not only will it give you invulnerability to unarmored rushers, but it will also make you more effective in base defense. If you don't grab armor because of cannon construction or bow sniping, you're making a big mistake.</p>
               <h5>TNT</h5>
-              <p>This is a huge part of DtC maps. Destroying the other team's supplies will give you a slight advantage in most maps, but setting off TNT will make you a big target for the enemy team. There are three main ways to blow up the enemy base: cannons, direct assault, and bombing.</p>
+              <p>This is a huge part of DTC maps. Destroying the other team's supplies will give you a slight advantage in most maps, but setting off TNT will make you a big target for the enemy team. There are three main ways to blow up the enemy base: cannons, direct assault, and bombing.</p>
               <p>Cannons are my personal favorite, though I rarely use them. They are very effective at doing damage when no direct path to the enemy base is available. There are many different cannon designs you can use, some more effective than others in certain situations.</p>
               <p>Direct assault is the most dangerous, but most effective way to destroy vital enemy supplies. Placing giant masses of TNT on the enemy base will do monstrous damage, with a high chance for kills. If you do this, it would help to have armor, or to do this at the very beginning of a match to catch the enemy off guard.</p>
               <p>TNT bombing is the last one on the list, but it is also the most cowardly tactic to use. Using a high vantage point above the enemy base, the player can endlessly rain TNT onto unsuspecting victims. This method of "carpet bombing" is looked down upon by most players of PGM, because most bombers spam TNT for kills. If you want to be a troll, go ahead and rain TNT on the spawn, but prepare to be yelled at.</p>
@@ -69,7 +69,7 @@
               <h5>Knockback Launch</h5>
               <p>Being one of my favorite things to do, you will need a quick finger to pull this off. After every hit you land on an enemy, quickly double tap the forward key button and hit the enemy again to send him flying double the distance of a normal knockback. If you're really good, you can hit an enemy three times or more. Because of the slight delay you will have before the enemy goes flying, getting multiple strikes should be fairly simple.</p>
               <h5>Chasing</h5>
-              <p>When chasing a fleeing enemy, do NOT spam your sword to try and hit him. All this will do is disable your sprint, because Minecraft will think you've struck an enemy while the enemy was actually too far away to take damage. Wait until you're close enough for a guaranteed hit before trying to attack.</p>
+              <p>When chasing a fleeing enemy, DO NOT spam your sword to try and hit him. All this will do is disable your sprint, because Minecraft will think you've struck an enemy while the enemy was actually too far away to take damage. Wait until you're close enough for a guaranteed hit before trying to attack.</p>
               <h5>Things you should not do in a sword fight </h5>
               <p>Running backwards and swinging your sword will let your enemy have an easier time hitting you, while he remains out of your reach (because thats just how this game works). Running away would be a better tactic than swinging while walking backwards.</p>
               <h5>Combos</h5>
@@ -79,7 +79,7 @@
               <p>This is blocking and hitting with your sword at the same time.</p>
               <p>It is achieved by spamming both your left and right mouse buttons simultaneously.</p>
               <p>This technique is effective when your opponent is laying down hits on you at the same time as you are hitting him.</p>
-              <p>By doing this, each hit that your opponent makes while you are blocking will be reduced by half.</p> 
+              <p>By doing this, each hit that your opponent makes while you are blocking will be reduced by half.</p>
               <h4><u>Destroy the Core</u></h4>
               <p>Right here is where the fun begins. I will be showing you some of my own tactics, as well as other things I think will help you all for these maps. The main topics I will be discussing are the core, stealth, bridging, and speed. I will also tell you a few tricks for surviving in a losing battle.</p>
               <h5>The Core</h5>
@@ -115,7 +115,7 @@
                 <p>
                 <li><strong>Walls don't always help.</strong> It seems counterintuitive, but walls with battlements or firing ports make it easier for enemies to expect where you will pop up, easier to sight in, and harder for you to have a wide view of the battlefield. Visibility and mobility is key to using a bow effectively; you only need to build walls if you know where the enemy is and you are under fire. You should always try to be mobile as well; try moving unpredictably after shots.</li>
                 </p>
-                <p> 
+                <p>
                 <li><strong>Fire at a high angle.</strong> Though this takes some practice, enemies behind cover can be sussed out by firing at a high arc—you don't pull back as much on the arrow and lob death from above. Following that theme, in a map like Sand Wars, a good tactic is to shoot up the floor with arrows; when the sand falls, the arrows dislodge themselves and you can sometimes get a lucky kill. This arrow-falling tactic also applies to blocks covered with arrows that are broken—this works really well for enemies tunneling under in Battle of Lyndannise: If you block up the hole that the enemies exit out of, and cover it in arrows, when the opponent breaks the block to attack you he will immediately be killed by the dislodged arrows. Furthermore, if you have really good timing, you can do the same on other maps like Race for Victory etc. Pillar up above the enemy, make a skypath, and shoot up a (optimally glass) block full of arrows. When an enemy races under you, you can break the block and drop a deadly arrow bomb from above.</li>
                 </p>
                 <p>

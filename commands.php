@@ -49,7 +49,7 @@ include("includes/functions.php");
               <strong>About:</strong>
               <p>This is how you join the game</p>
               <strong>Other info:</strong>
-              <p>You can only specify a team if you have donated or are the maker of the map currently playing.</p>
+              <p>You can only specify a team if you have donated or are an author of the map currently playing.</p>
             </div>
             <div class="tab-pane" id="tab2">
               <strong>/toggle</strong>
@@ -78,8 +78,8 @@ include("includes/functions.php");
               <strong>ChatModerator</strong>
               <p>Toggles the sensitivity of ChatModerator, restricting what chat messages you will receive. (/toggle ChatModerator)</p>
               <p>There are three toggleable options:</p>
-              <p>None: This is the most passive filter level. You will receive all 'offensive' messages, regardless of intensity. However, you will not receive advertisements or other pre-filtered content.<br />
-              <p>Offensive: You will not receive messages that contain excessively vulgar or profane content. This filter is more lenient than the 'all' filter level, but will still weed out particularly toxic chat.<br />
+              <p>None: This is the most passive filter level. You will receive all 'offensive' messages, regardless of intensity. However, you will not receive advertisements or other pre-filtered content.</p>
+              <p>Offensive: You will not receive messages that contain excessively vulgar or profane content. This filter is more lenient than the 'all' filter level, but will still weed out particularly toxic chat.</p>
               <p>All: You will not receive messages containing any 'offensive' content (for example, if a single profanity is sent, you won't see it). This is the most 'strict' option, and it is designed for those who are particularly averse to profanity.</p>
             </div>
             <div class="tab-pane" id="tab3">
@@ -156,6 +156,7 @@ include("includes/functions.php");
               <p>Tells you the next map on the rotation.</p>
               <strong>Other info:</strong>
               <p>Shortened to <b>/mn</b></p>
+              <p>Can also use <b>/next</b></p>
             </div>
             <div class="tab-pane" id="tab11">
               <strong>/staff</strong>
@@ -163,8 +164,6 @@ include("includes/functions.php");
               <p>/staff [server] [-a]</p>
               <strong>About:</strong>
               <p>Displays staff on the current server, on the specified server, or on all servers if -a is specified.</p>
-              <strong>Other info:</strong>
-              <p>N/A</p>
             </div>
             <div class="tab-pane" id="tab12">
               <strong>/find</strong>
@@ -184,6 +183,8 @@ include("includes/functions.php");
             <p>Returns a list of the player's infractions, including: punisher, punishment type and reason.</p>
             <strong>Other Info:</strong>
             <p>@player can be used to lookup an offline player.</p>
+            <strong>Other info:</strong>
+            <p>Shortened to <b>/l</b></p>
             </div>
           </div>
         </div>
