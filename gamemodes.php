@@ -100,7 +100,7 @@
             <div class="tab-pane" id="tab8">
               <h2>Ghost Squadron (By SethBling)</h2>
               <hr>
-              <p>GS is silimar to Blitz, but you select a class are invisible. Your goal is to kill other invisible people on the other team. It's weird! The main idea behind these maps is to find ways of detecting invisible players and killing them. A big part of these maps is the terrain. Symmetry is not <i>as</i> important as other maps. Do /classes to see a list of classes, and /class (class name here) to change a class. Note that you can only change classes before game, and that you cannot join mid-game and must wait until the next map if you do not join at the start.</p>
+              <p>GS is silimar to Blitz, but you select a class and are invisible. Your goal is to kill other invisible people on the other team. It's weird! The main idea behind these maps is to find ways of detecting invisible players and killing them. A big part of these maps is the terrain. Symmetry is not <i>as</i> important as other maps. Do /classes to see a list of classes, and /class (class name here) to change a class. Note that you can only change classes before game, and that you cannot join mid-game and must wait until the next map if you do not join at the start.</p>
             </div>
             <div class="tab-pane" id="tab9">
               <h2>Conquest</h2>
