@@ -111,7 +111,7 @@
               <h2>Arcade</h2>
               <hr>
               <p>The arcade is currently in development.</p>
-              <p>Maps that may be added into the Arcade servers are the Blasternauts and Race gamemodes.
+              <p>Maps that may be added into the Arcade servers are the Blasternauts and Race gamemodes.</p>
             </div>
             <div class="tab-pane" id="tab11">
               <h2>Blasternauts</h2>
