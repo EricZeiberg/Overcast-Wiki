@@ -149,8 +149,8 @@
         </a>
         <div class="media-body">
           <h4 class="media-heading">Junior Moderator</h4>
-          <p>These are staff that are less experienced than normal moderators. It is basically a stepping stone for new moderators. The admins will see how mature each one is and decide whether or not to mod them completely. After a two week period, the final decision is made. They can do everything that moderators can do except end/setnext maps, and use WorldEdit commands (with the exception of few such as //drain).</p>
-          <p>Example: <a href="https://oc.tc/DracoSkull">DracoSkull</a></p>
+          <p>These are staff that are less experienced than normal moderators. It is basically a stepping stone for new moderators. The admins will see how mature each one is and decide whether or not to mod them completely. After a two week period, the final decision is made. They can do everything that moderators can do except end or setnext maps, and use WorldEdit commands (with the exception of few such as //drain).</p>
+          <p>Example: <a href="http://i.imgur.com/dNtMdYC.png">PlasmaCross</a></p>
         </div>
       </div>
     </div>
