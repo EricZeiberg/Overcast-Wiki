@@ -45,7 +45,7 @@ function pageHeader($selected) {
 		"Rules" => array(
 			"href" => "https://oc.tc/rules/en",
 			"icon" => "exclamation-sign",
-			"type" => "main",
+			"type" => "external",
 			),
 		"Commands" => array(
 			"href" => "commands.php",
@@ -88,11 +88,16 @@ function pageHeader($selected) {
 					<ul class="nav navbar-nav">
 						<?php
 						foreach ($links as $l => $i) {
-							if ($i['type'] == "main") {
-								if ($selected == $l) {
-									$section = "<li class=\"active\"><a href=\"".$i['href']."\"><span class=\"glyphicon glyphicon-" . $i['icon'] . "\"></span>  ".$l."</a></li>\n";
+							if ($i['type'] == "main" || $i['type'] == "external") {
+								if ($i['type'] == "external") {
+									$externallink = " target=\"_blank\"";
 								} else {
-									$section = "<li><a href=\"".$i['href']."\"><span class=\"glyphicon glyphicon-" . $i['icon'] . "\"></span>  " . $l . "</a></li>\n";
+									$externallink = "";
+								}
+								if ($selected == $l) {
+									$section = "<li class=\"active\"><a href=\"".$i['href']."\"" . $externallink . "><span class=\"glyphicon glyphicon-" . $i['icon'] . "\"></span>  ".$l."</a></li>\n";
+								} else {
+									$section = "<li><a href=\"".$i['href']."\"" . $externallink . "><span class=\"glyphicon glyphicon-" . $i['icon'] . "\"></span>  " . $l . "</a></li>\n";
 								}
 								echo $section;
 							}
