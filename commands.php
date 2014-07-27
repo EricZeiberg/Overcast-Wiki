@@ -145,37 +145,40 @@ include("includes/functions.php");
           <div class="tab-pane" id="tab6">
             <div class="container">
               <div class="col-md-9">
-                <b>/fr or /friends</b>
+                <div class="page-header">
+                  <h1>/friends <small>Lists your friends, and what server they are on, or were last on</small></h1>
+                </div>
+
                 <b>Usage:</b>
-                <p>/fr</p>
-                <b>About:</b>
-                <p>Sends you a list of your friends and what server they are currently on, or were last on and how long ago.</p>
+                <p><kbd>/fr</kbd></p>
+                <p><kbd>/friends</kbd></p>
+
                 <b>Other info:</b>
-                <p>To add friends, go to their stats and click add friend.</p>
+                <p>To add friends, go to <kbd>http://oc.tc/[username]</kbd> and click add friend.</p>
               </div>
             </div>
           </div>
           <div class="tab-pane" id="tab7">
             <div class="container">
               <div class="col-md-9">
-                <b>/match</b>
+                <div class="page-header">
+                  <h1>/match <small>Sends you info about match time, number of players, score, etc</small></h1>
+                </div>
                 <b>Usage:</b>
-                <p>/match</p>
-                <b>About:</b>
-                <p>Sends you info about match time, number of players, score, etc.</p>
-                <b>Other info:</b>
-                <p>N/A</p>
+                <p><kbd>/match</kbd></p>
               </div>
             </div>
           </div>
           <div class="tab-pane" id="tab8">
             <div class="container">
               <div class="col-md-9">
-                <b>/map</b>
+                <div class="page-header">
+                  <h1>/map <small>Sends you info about map rules, authors, max players etc</small></h1>
+                </div>
+
                 <b>Usage:</b>
-                <p>/map</p>
-                <b>About:</b>
-                <p>Sends you info about map rules, authors, max players etc.</p>
+                <p><kbd>/map</kbd></p>
+
                 <b>Other info:</b>
                 <p>Make sure you read the map rules before playing any map you don't know!</p>
               </div>
@@ -184,36 +187,42 @@ include("includes/functions.php");
           <div class="tab-pane" id="tab9">
             <div class="container">
               <div class="col-md-9">
-                <b>/rot</b>
+                <div class="page-header">
+                  <h1>/rot <small>Sends you map rotation info</small></h1>
+                </div>
+
                 <b>Usage:</b>
-                <p>/rot</p>
-                <b>About:</b>
-                <p>Sends you info about the rotation like next map.</p>
+                <p><kbd>/rot</kbd></p>
+
                 <b>Other info:</b>
-                <p>To go to the second page to /rot 2</p>
+                <p>To go to the second page, do <kbd>/rot 2</kbd></p>
               </div>
             </div>
           </div>
           <div class="tab-pane" id="tab10">
             <div class="container">
               <div class="col-md-9">
-                <b>/mapnext</b>
+                <div class="page-header">
+                  <h1>/mapnext <small>Get the next map in the <kbd>/rot</kbd>ation</small></h1>
+                </div>
+
                 <b>Usage:</b>
-                <p>/mapnext</p>
-                <b>About:</b>
-                <p>Tells you the next map on the rotation.</p>
-                <b>Other info:</b>
-                <p>Shortened to <b>/mn</b></p>
-                <p>Can also use <b>/next</b></p>
+                <p><kbd>/mn</kbd></p>
+                <p><kbd>/mapnext</kbd></p>
+                <p><kbd>/next</kbd></p>
               </div>
             </div>
           </div>
           <div class="tab-pane" id="tab11">
             <div class="container">
               <div class="col-md-9">
-                <b>/staff</b>
+                <div class="page-header">
+                  <h1>/staff <small>Displays online staff</small></h1>
+                </div>
+
                 <b>Usage:</b>
-                <p>/staff [server] [-a]</p>
+                <p><kbd>/staff [server] [-a]</kbd></p>
+
                 <b>About:</b>
                 <p>Displays staff on the current server, on the specified server, or on all servers if -a is specified.</p>
               </div>
@@ -222,31 +231,35 @@ include("includes/functions.php");
           <div class="tab-pane" id="tab12">
             <div class="container">
               <div class="col-md-9">
-                <b>/find</b>
+                <div class="page-header">
+                  <h1>/find <small>Find information about a player</small></h1>
+                </div>
+
                 <b>Usage:</b>
-                <p>/find [player]</p>
+                <p><kbd>/find [player]</kbd></p>
+                <p><kbd>/seen [player]</kbd></p>
+
                 <b>About:</b>
                 <p>
-                  If online, shows the specified player's current server, if their settings permit, or their team colour if they are on the same server as the issuer.<br />
+                  If online, shows the specified player's current server, if their settings permit, or their team colour if they are on the same server as the issuer.<br>
                   If offline, shows when a player was last online and how long they have been offline for, as well as what server they were last seen on.
                 </p>
-                <b>Other info:</b>
-                <p>The command /seen can also be used to retrieve the same information</p>
               </div>
             </div>
           </div>
           <div class="tab-pane" id="tab13">
             <div class="container">
               <div class="col-md-9">
-                <b>/lookup</b>
+                <div class="page-header">
+                  <h1>/lookup <small>Get a list of player infractions</small></h1>
+                </div>
+
                 <b>Usage:</b>
-                <p>/lookup [player]</p>
-                <b>About</b>
-                <p>Returns a list of the player's infractions, including: punisher, punishment type and reason.</p>
+                <p><kbd>/lookup [player]</kbd></p>
+                <p><kbd>/l [player]</kbd></p>
+                
                 <b>Other Info:</b>
                 <p>@player can be used to lookup an offline player.</p>
-                <b>Other info:</b>
-                <p>Shortened to <b>/l</b></p>
               </div>
             </div>
           </div>
@@ -254,12 +267,11 @@ include("includes/functions.php");
       </div>
     </div>
   </div>
-</div>
-<hr>
-<script src="http://code.jquery.com/jquery.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<?php
-pageFooter();
-?>
+  <hr>
+  <script src="http://code.jquery.com/jquery.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <?php
+  pageFooter();
+  ?>
 </body>
 </html>
