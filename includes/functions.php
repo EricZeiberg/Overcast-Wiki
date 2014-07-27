@@ -99,7 +99,7 @@ function pageHeader($selected) {
 						}
 						?>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-th-list"></i>   More <b class="caret"></b></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-th-list"></span>   More <b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								<?php
 								foreach ($links as $l => $i) {
