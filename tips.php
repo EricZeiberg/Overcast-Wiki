@@ -168,8 +168,8 @@ include("includes/functions.php")
 								<h5>Knockback Launch</h5>
 								<p>
 									Being one of my favorite things to do, you will need a quick finger to pull this 
-									off. After every hit you land on an enemy, quickly double tap the forward key 
-									button and hit the enemy again to send him flying double the distance of a normal 
+									off. After every hit you land on an enemy, quickly double tap <kbd>a</kbd> and 
+									hit the enemy again to send him flying double the distance of a normal 
 									knockback. If you're really good, you can hit an enemy three times or more. 
 									Because of the slight delay you will have before the enemy goes flying, getting 
 									multiple strikes should be fairly simple.
@@ -766,7 +766,7 @@ include("includes/functions.php")
 										If your enemy is close to the edge, try to knock them towards it and they 
 										will most likely fall off. If it goes downwards try to hit them towards it as 
 										they take extra damage from fall damage. If below them just side strafe, 
-										press a then d and repeat, you get an advantage from being below your 
+										press <kbd>a</kbd> then <kbd>d</kbd> and repeat, you get an advantage from being below your 
 										opponent and moving side to side makes your hit box even harder to get 
 										(I have never been hit whilst doing this). To counter someone below you just 
 										jump over them, it's simple, and then they lose the advantage and are taken 
