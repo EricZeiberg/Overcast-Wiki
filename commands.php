@@ -61,7 +61,7 @@ include("includes/functions.php");
             <div class="container">
               <div class="col-md-9">
                 <div class="page-header">
-                  <h1>/toggle <small>Change your settings (See <a href="#settings">/settings</a>)</small></h1>
+                  <h1>/toggle <small>Change your <kbd>/settings</kbd></small></h1>
                 </div>
                 
                 <b>Usage:</b>
