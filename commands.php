@@ -40,6 +40,7 @@ include("includes/functions.php");
             <li><a href="#tab11" data-toggle="tab">/staff</a></li>
             <li><a href="#tab12" data-toggle="tab">/find</a></li>
             <li><a href="#tab13" data-toggle="tab">/lookup</a></li>
+            <li><a href="#tab14" data-toggle="tab">/server</a></li>
           </ul>
           <div class="tab-content">
             <div class="tab-pane active" id="tab1">
@@ -185,6 +186,15 @@ include("includes/functions.php");
             <p>@player can be used to lookup an offline player.</p>
             <strong>Other info:</strong>
             <p>Shortened to <b>/l</b></p>
+            </div>
+            <div class="tab-pane" id="tab14">
+              <strong>/server</strong>
+              <strong>Usage:</strong>
+              <p>/server [servername]</p>
+              <strong>About</strong>
+              <p>Allows players to easily teleport to other Overcast Network servers.</p>
+              <strong>Other Info:</strong>
+              <p>The /server command can also let you teleport to MapDev servers to test out new maps. You type /server and then the name of the Map Developer (ElectroidFilms for example) to acess the server. At most times the server is white-listed, but when it is on, you can try out new maps before they may get added to the offical repository.</p>
             </div>
           </div>
         </div>
