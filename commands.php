@@ -21,26 +21,28 @@ include("includes/functions.php");
       <h1>Commands</h1>
       <p>All the commands and how to use them</p>
     </div>
-  </div>
-  <div class="pills">
-    <div class="container">
-      <div class="tabbable tabs-left">
-        <!-- Only required for left/right tabs -->
-        <ul class="nav nav-tabs">
-          <li class="active"><a href="#tab1" data-toggle="tab">/join</a></li>
-          <li><a href="#tab2" data-toggle="tab">/toggle</a></li>
-          <li><a href="#tab3" data-toggle="tab">/report</a></li>
-          <li><a href="#tab4" data-toggle="tab">Chat Channels</a></li>
-          <li><a href="#tab5" data-toggle="tab">Private MSG</a></li>
-          <li><a href="#tab6" data-toggle="tab">Friends</a></li>
-          <li><a href="#tab7" data-toggle="tab">/match</a></li>
-          <li><a href="#tab8" data-toggle="tab">/map</a></li>
-          <li><a href="#tab9" data-toggle="tab">/rot</a></li>
-          <li><a href="#tab10" data-toggle="tab">/mapnext</a></li>
-          <li><a href="#tab11" data-toggle="tab">/staff</a></li>
-          <li><a href="#tab12" data-toggle="tab">/find</a></li>
-          <li><a href="#tab13" data-toggle="tab">/lookup</a></li>
-        </ul>
+<<<<<<< HEAD
+    <div class="pills">
+      <div class="container">
+        <div class="tabbable tabs-left">
+          <!-- Only required for left/right tabs -->
+          <ul class="nav nav-tabs">
+            <li class="active"><a href="#tab1" data-toggle="tab">/join</a></li>
+            <li><a href="#tab2" data-toggle="tab">/toggle</a></li>
+            <li><a href="#tab3" data-toggle="tab">/report</a></li>
+            <li><a href="#tab4" data-toggle="tab">Chat Channels</a></li>
+            <li><a href="#tab5" data-toggle="tab">Private MSG</a></li>
+            <li><a href="#tab6" data-toggle="tab">Friends</a></li>
+            <li><a href="#tab7" data-toggle="tab">/match</a></li>
+            <li><a href="#tab8" data-toggle="tab">/map</a></li>
+            <li><a href="#tab9" data-toggle="tab">/rot</a></li>
+            <li><a href="#tab10" data-toggle="tab">/mapnext</a></li>
+            <li><a href="#tab11" data-toggle="tab">/staff</a></li>
+            <li><a href="#tab12" data-toggle="tab">/find</a></li>
+            <li><a href="#tab13" data-toggle="tab">/lookup</a></li>
+            <li><a href="#tab14" data-toggle="tab">/server</a></li>
+          </ul>
+        </div>
         <div class="tab-content">
           <div class="tab-pane active" id="tab1">
             <div class="container">
@@ -261,6 +263,15 @@ include("includes/functions.php");
                 <b>Other Info:</b>
                 <p>@player can be used to lookup an offline player.</p>
               </div>
+            </div>
+            <div class="tab-pane" id="tab14">
+              <strong>/server</strong>
+              <strong>Usage:</strong>
+              <p>/server [servername]</p>
+              <strong>About</strong>
+              <p>Allows players to easily teleport to other Overcast Network servers.</p>
+              <strong>Other Info:</strong>
+              <p>The /server command can also let you teleport to MapDev servers to test out new maps. You type /server and then the name of the Map Developer (ElectroidFilms for example) to acess the server. At most times the server is white-listed, but when it is on, you can try out new maps before they may get added to the offical repository.</p>
             </div>
           </div>
         </div>

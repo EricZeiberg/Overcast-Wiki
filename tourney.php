@@ -80,13 +80,10 @@ include("includes/functions.php")
                 Winner: Gamemode 1<br>Teams: <a href="https://oc.tc/tournaments/return-of-the-hill">Here</a><br>Bracket: <a href="http://challonge.com/ocnroth">Here</a><br>Gamemode: All<br><br>
                 <h3>3f - Breaking Core</h3>
                 Winner: LunGGlove<br>Teams: <a href="https://oc.tc/tournaments/breaking-core">Here</a><br>Bracket: <a href="http://ocn.challonge.com/bc">Here</a><br>Gamemode: DTC/DTM<br>
-                <ul>
-                  <li><u><b></b></u></li>
-                </ul>
               </div>
             </div>
           </div>
-          <div class="tab-pane active" id="tab2">
+          <div class="tab-pane" id="tab2">
             <div class="container">
               <div class="col-md-9">
                 <p>Coming soon!</p>
