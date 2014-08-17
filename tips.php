@@ -1,29 +1,20 @@
-<?php
-include("includes/functions.php")
-?>
+<?php include("includes/functions.php") ?>
 <!DOCTYPE html>
 <html>
 <head>
 	<title>PvP Tips - Overcast Network Wiki</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!-- Bootstrap -->
-	<link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
-	<link href="assets/css/style.css" rel="stylesheet" media="screen">
-	<link href="assets/css/highlight.css" rel="stylesheet" media="screen">
-	<link href="assets/ico/favicon.ico" rel="icon">
+	<?php assets(); ?>
 </head>
 <body>
-	<?php
-	pageHeader("PvP Tips")
-	?>
-	<div class = "container">
+	<?php pageHeader("PvP Tips") ?>
+	<div class="container">
 		<div class ="jumbotron">
 			<h1>Tips and Tricks</h1>
 			<p>Helpful tips and guides to get you started on the Overcast Network. </p>
 		</div>
 	</div>
-	<div class = "tabs">
-		<div class = "container">
+	<div class="tabs">
+		<div class="container">
 			<div class="tabbable tabs-left">
 				<ul class="nav nav-tabs">
 					<li class="active"><a href="#tab1" data-toggle="tab">A general guide to PvP</a></li>
@@ -1047,13 +1038,6 @@ include("includes/functions.php")
 			</div>
 		</div>
 	</div>
-	<script src="http://code.jquery.com/jquery.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
-	<hr>
-	<div class="container">
-		<?php
-		pageFooter();
-		?>
-	</div>
+	<?php pageFooter(); ?>
 </body>
 </html>

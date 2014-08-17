@@ -6,11 +6,7 @@ include("includes/functions.php");
 <head>
 	<title>Contributors - Overcast Network Wiki</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!-- Bootstrap -->
-	<link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
-	<link href="assets/css/style.css" rel="stylesheet" media="screen">
-	<link href="assets/css/highlight.css" rel="stylesheet" media="screen">
-	<link href="assets/ico/favicon.ico" rel="icon">
+	<?php assets(); ?>	
 	<style>
 		.row {
 			margin-top: 5px;

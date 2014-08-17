@@ -1,8 +1,24 @@
 <?php
 
-function pageFooter()
-{
+function assets() {
 	?>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Jquery -->
+	<script src="/assets/js/jquery.min.js"></script>
+
+	<!-- Bootstrap -->
+	<link href="/assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<script src="/assets/js/bootstrap.min.js"></script>
+
+	<link href="assets/css/style.css" rel="stylesheet" media="screen">
+	<link href="assets/css/highlight.css" rel="stylesheet" media="screen">
+	<link href="assets/ico/favicon.ico" rel="icon">
+	<?php
+}
+
+function pageFooter() {
+	?>
+	<hr>
 	<div class="container">
 		<footer class="footer">
 			<ul class="nav nav-pills">
