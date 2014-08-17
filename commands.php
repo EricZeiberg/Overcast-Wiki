@@ -21,7 +21,6 @@ include("includes/functions.php");
       <h1>Commands</h1>
       <p>All the commands and how to use them</p>
     </div>
-<<<<<<< HEAD
     <div class="pills">
       <div class="container">
         <div class="tabbable tabs-left">
@@ -264,25 +263,32 @@ include("includes/functions.php");
                 <p>@player can be used to lookup an offline player.</p>
               </div>
             </div>
-            <div class="tab-pane" id="tab14">
-              <strong>/server</strong>
-              <strong>Usage:</strong>
-              <p>/server [servername]</p>
-              <strong>About</strong>
-              <p>Allows players to easily teleport to other Overcast Network servers.</p>
-              <strong>Other Info:</strong>
-              <p>The /server command can also let you teleport to MapDev servers to test out new maps. You type /server and then the name of the Map Developer (ElectroidFilms for example) to acess the server. At most times the server is white-listed, but when it is on, you can try out new maps before they may get added to the offical repository.</p>
+          </div>
+          <div class="tab-pane" id="tab14">
+            <div class="container">
+              <div class="col-md-9">
+                <div class="page-header">
+                  <h1>/server <small>Allows players to easily teleport to other Overcast Network servers.</small></h1>
+                </div>
+
+                <b>Usage:</b>
+                <p><kbd>/server [servername]</kbd></p>
+                
+                <b>Other Info:</b>
+                <p>The /server command can also let you teleport to MapDev servers to test out new maps. You type /server and then the name of the Map Developer (ElectroidFilms for example) to acess the server. At most times the server is white-listed, but when it is on, you can try out new maps before they may get added to the offical repository.</p>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <hr>
-  <script src="http://code.jquery.com/jquery.js"></script>
-  <script src="assets/js/bootstrap.min.js"></script>
-  <?php
-  pageFooter();
-  ?>
+</div>
+<hr>
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<?php
+pageFooter();
+?>
 </body>
 </html>
