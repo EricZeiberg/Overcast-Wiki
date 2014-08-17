@@ -1,85 +1,66 @@
 <?php
-  include("includes/functions.php")
-  ?>
+include("includes/functions.php")
+?>
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Ranks - Overcast Network Wiki</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap -->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <link href="assets/css/style.css" rel="stylesheet" media="screen">
-    <link href="assets/css/highlight.css" rel="stylesheet" media="screen">
-    <link href="assets/ico/favicon.ico" rel="icon">
-  </head>
-  <body>
-    <?php
-      pageHeader("ranks");
-      ?>
-    <div class = "container">
-      <div class ="jumbotron">
-        <h1>Ranks</h1>
-        <p>All the ranks on OCN. (Written by GoodBobul and ParaSpider)</p>
-      </div>
+<head>
+  <title>Ranks - Overcast Network Wiki</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Bootstrap -->
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="assets/css/style.css" rel="stylesheet" media="screen">
+  <link href="assets/css/highlight.css" rel="stylesheet" media="screen">
+  <link href="assets/ico/favicon.ico" rel="icon">
+</head>
+<body>
+  <?php
+  pageHeader("ranks");
+  ?>
+  <div class = "container">
+    <div class ="jumbotron">
+      <h1>Ranks</h1>
+      <p>All the ranks on OCN. (Written by GoodBobul and ParaSpider)</p>
     </div>
-    <div class="container">
-      <hr>
-    </div>
-    <div class="container">
-      <h2>Donation ranks</h2>
-    </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
+    <h2>Donation ranks</h2>
+    <hr>
     <div class="media">
-      <div class = "container">
-        <a class="pull-left" href="#">
+      <a class="pull-left" href="#">
         <span class="label" style="background-color: black; color: white">Decanus</span>
-        </a>
-        <div class="media-body">
-          <h4 class="media-heading">Decanus</h4>
-          <p>This used to be a black themed badge, but was recently deprecated as of December 23, 2013. It used to be found at <a href="http://oc.tc/shop">here</a>. It was $5 for 30 days of perks and it gave you a black badge on the website but no asterisk in game.</p>
-          <p>Example: <a href="http://i.imgur.com/1Bblvla.png">bleangamer</a></p>
-        </div>
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading">Decanus</h4>
+        <p>This used to be a black themed badge, but was recently deprecated as of December 23, 2013. It used to be found at <a href="http://oc.tc/shop">here</a>. It was $5 for 30 days of perks and it gave you a black badge on the website but no asterisk in game.</p>
+        <p>Example: <a href="http://i.imgur.com/1Bblvla.png">bleangamer</a></p>
       </div>
-    </div>
-    <div class="container">
       <hr>
     </div>
     <div class="media">
-      <div class = "container">
-        <a class="pull-left" href="#">
+      <a class="pull-left" href="#">
         <span class="label" style="background-color: green; color: white">Optio</span>
-        </a>
-        <div class="media-body">
-          <h4 class="media-heading">Optio</h4>
-          <p>You can buy this badge <a href="http://oc.tc/shop">here</a>. It is $10 for 60 days of perks. It gives you a green badge on the website and a green asterisk in-game.</p>
-          <p>Example: <a href="http://i.imgur.com/seNHdGA.png">Without_Regret</a></p>
-        </div>
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading">Optio</h4>
+        <p>You can buy this badge <a href="http://oc.tc/shop">here</a>. It is $10 for 60 days of perks. It gives you a green badge on the website and a green asterisk in-game.</p>
+        <p>Example: <a href="http://i.imgur.com/seNHdGA.png">Without_Regret</a></p>
       </div>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <div class="media">
-      <div class = "container">
-        <a class="pull-left" href="#">
+      <a class="pull-left" href="#">
         <span class="label" style="background-color: #FDD017; color: black">Centurion</span>
-        </a>
-        <div class="media-body">
-          <h4 class="media-heading">Centurion</h4>
-          <p>You can buy this badge <a href="http://oc.tc/shop">here</a>. This gives you 180 days for $25. It also gives a yellow badge on the website and a yellow asterisk in game. The perks that donors got before the donor update are included in this package.</p>
-          <p>Example: <a href="http://i.imgur.com/kIaO0nJ.png">Magic_Mat</a></p>
-        </div>
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading">Centurion</h4>
+        <p>You can buy this badge <a href="http://oc.tc/shop">here</a>. This gives you 180 days for $25. It also gives a yellow badge on the website and a yellow asterisk in game. The perks that donors got before the donor update are included in this package.</p>
+        <p>Example: <a href="http://i.imgur.com/kIaO0nJ.png">Magic_Mat</a></p>
       </div>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <div class="media">
       <div class = "container">
         <a class="pull-left" href="#">
-        <span class="label" style="background-color: purple; color: white">Dux</span>
+          <span class="label" style="background-color: purple; color: white">Dux</span>
         </a>
         <div class="media-body">
           <h4 class="media-heading">Dux</h4>
@@ -88,19 +69,15 @@
         </div>
       </div>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <div class="container">
       <h2>Staff ranks</h2>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <div class="media">
       <div class = "container">
         <a class="pull-left" href="#">
-        <span class="label" style="background-color: orange; color: white">Administrator</span>
+          <span class="label" style="background-color: orange; color: white">Administrator</span>
         </a>
         <div class="media-body">
           <h4 class="media-heading">Administrator</h4>
@@ -109,13 +86,11 @@
         </div>
       </div>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <div class="media">
       <div class = "container">
         <a class="pull-left" href="#">
-        <span class="label" style="background-color: purple; color: white">Developer</span>
+          <span class="label" style="background-color: purple; color: white">Developer</span>
         </a>
         <div class="media-body">
           <h4 class="media-heading">Developer</h4>
@@ -124,13 +99,11 @@
         </div>
       </div>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <div class="media">
       <div class = "container">
         <a class="pull-left" href="#">
-        <span class="label" style="background-color: #F20; color: white">Moderator</span>
+          <span class="label" style="background-color: #F20; color: white">Moderator</span>
         </a>
         <div class="media-body">
           <h4 class="media-heading">Moderator</h4>
@@ -139,13 +112,11 @@
         </div>
       </div>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <div class="media">
       <div class = "container">
         <a class="pull-left" href="#">
-        <span class="label" style="background-color: #F88; color: white">Junior Moderator</span>
+          <span class="label" style="background-color: #F88; color: white">Junior Moderator</span>
         </a>
         <div class="media-body">
           <h4 class="media-heading">Junior Moderator</h4>
@@ -154,13 +125,11 @@
         </div>
       </div>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <div class="media">
       <div class = "container">
         <a class="pull-left" href="#">
-        <span class="label" style="background-color: #A00; color: white">Senior Moderator</span>
+          <span class="label" style="background-color: #A00; color: white">Senior Moderator</span>
         </a>
         <div class="media-body">
           <h4 class="media-heading">Senior Moderator</h4>
@@ -169,75 +138,56 @@
         </div>
       </div>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <div class="media">
-      <div class="container">
-        <a class="pull-left" href="#">
-          <span class="label" style="background-color: #A00; color: white">Supreme Overlord</span>
-        </a>
-        <div class="media-body">
-          <h4 class="media-heading">Supreme Overlord</h4>
-          <p>The two Supreme Overlords are long-time friends of MonsieurApple. They have the same abilities as administrators.</p>
-          <p>Examples: <a href="https://oc.tc/McYukon">McYukon</a> &amp; <a href="https://oc.tc/McSpider">McSpider</a>.</p>
-        </div>
+      <a class="pull-left" href="#">
+        <span class="label" style="background-color: #A00; color: white">Supreme Overlord</span>
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading">Supreme Overlord</h4>
+        <p>The two Supreme Overlords are long-time friends of MonsieurApple. They have the same abilities as administrators.</p>
+        <p>Examples: <a href="https://oc.tc/McYukon">McYukon</a> &amp; <a href="https://oc.tc/McSpider">McSpider</a>.</p>
       </div>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <div class="media">
-      <div class="container">
-        <a class="pull-left" href="#">
-          <span class="label" style="background-color: blue; color: white">Map Developer</span>
-        </a>
-        <div class="media-body">
-          <h4 class="media-heading">Map Developer</h4>
-          <p>Map Developers are highly trusted people that have access to what maps can be added and what maps cannot. They have full access to the maps repo on Github, and they get their own servers to where they can test them. They are represented by a blue badge but do not get a flair in-game.</p>
-          <p>Example: <a href="https://oc.tc/ElectroidFilms">ElectroidFilms</p>
-        </div>
+      <a class="pull-left" href="#">
+        <span class="label" style="background-color: blue; color: white">Map Developer</span>
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading">Map Developer</h4>
+        <p>Map Developers are highly trusted people that have access to what maps can be added and what maps cannot. They have full access to the maps repo on Github, and they get their own servers to where they can test them. They are represented by a blue badge but do not get a flair in-game.</p>
+        <p>Example: <a href="https://oc.tc/ElectroidFilms">ElectroidFilms</a></p>
       </div>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <div class="media">
-      <div class="container">
-        <a class="pull-left" href="#">
-          <span class="label" style="background-color: darkcyan; color: white">Event Coordinator</span>
-        </a>
-        <div class="media-body">
-          <h4 class="media-heading">Event Coordinator</h4>
-          <p>The Event Coordinator rank is for the main people who make official events happen. They manage the referees and livestreamers, and manage the event itself to make sure it's a fair and fun environment. They were called 'Senior Referees', 'Tournament', 'Tournament Organiser' and 'Cyan People' in the past.</p>
-          <p>Example: <a href="https://oc.tc/BrettOgden">BrettOgden</a>
-        </div>
+      <a class="pull-left" href="#">
+        <span class="label" style="background-color: darkcyan; color: white">Event Coordinator</span>
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading">Event Coordinator</h4>
+        <p>The Event Coordinator rank is for the main people who make official events happen. They manage the referees and livestreamers, and manage the event itself to make sure it's a fair and fun environment. They were called 'Senior Referees', 'Tournament', 'Tournament Organiser' and 'Cyan People' in the past.</p>
+        <p>Example: <a href="https://oc.tc/BrettOgden">BrettOgden</a></p>
       </div>
-    </div>
-    <div class="container">
       <hr>
-    </div>
-    <div class="media">
-      <div class="container">
+      <div class="media">
         <a class="pull-left" href="#">
           <span class="label" style="background-color: teal; color: white">Referee</span>
         </a>
         <div class="media-body">
           <h4 class="media-heading">Referee</h4>
           <p>The referees are supervisors of the event to make sure there are no cheaters with the ability to notify a senior referee at a moment's notice. They are prioritized with assisting the tournament. Referee is a permanent rank, and applications are only opened when additional referees are required; previously, referee was a temporary rank and applications were opened for each tournament.</p>
-          <p>Examples: <a href="http://i.imgur.com/swC0YHT.png">Plastix</a>
+          <p>Examples: <a href="http://i.imgur.com/swC0YHT.png">Plastix</a></p>
         </div>
       </div>
     </div>
-    <div class="container">
-      <hr>
-    </div>
+    <hr>
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
-    <div class="container">
-      <?php
-        pageFooter();
-        ?>
-    </div>
-  </body>
+    <?php
+    pageFooter();
+    ?>
+  </div>
+</body>
 </html>
