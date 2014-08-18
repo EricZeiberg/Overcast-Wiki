@@ -21,23 +21,27 @@ function pageFooter() {
 	<hr>
 	<div class="container">
 		<footer class="footer">
-			<ul class="nav nav-pills">
-				<li class="pull-left">
-					<a>Overcast Network Wiki</a>
-				</li>
-				<li class="note">
-					<a>NOTE: This wiki is unofficial and is not affiliated or endorsed by Overcast Network</a>
-				</li>
-				<li class ="pull-right" >
+			<div class="row">
+				<div class="pull-left col-md-2">
+					<b>Overcast Network Wiki</b>
+				</div>
+				<div class="pull-right col-md-3" style="text-align:right;">
 					<a href="http://oc.tc">Overcast Network Website</a>
-				</li>
-				<li class ="pull-right" >
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-7">
+					NOTE: This wiki is unofficial and is not affiliated or endorsed by Overcast Network
+				</div>
+				<div class="pull-right col-md-2" style="text-align:right;">
 					<a href="https://github.com/MasterEjay/Overcast-Wiki">GitHub Repository</a>
-				</li>
-				<li class ="pull-right" >
+				</div>
+			</div>
+			<div class="row">
+				<div class="pull-right col-md-2" style="text-align:right;">
 					<a href="contributors.php">Contributors</a>
-				</li>
-			</ul>
+				</div>
+			</div>
 		</footer>
 	</div>
 	<?php

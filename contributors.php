@@ -27,6 +27,9 @@ include("includes/functions.php");
 			<p>The people who have helped make this wiki</p>
 		</div>
 		<?php
+		####################################################
+		#Add your minecraft username to the end of the list#
+		####################################################
 		$contributors = array(
 			'MonsieurApple',
 			'MasterEjzz',
@@ -47,6 +50,9 @@ include("includes/functions.php");
 			if ($index % 3 == 0) {
 				echo '<div class="row">';
 			}
+			#######################################
+			#Do not edit this part to add yourself#
+			#######################################
 			?>
 			<div class="col-md-4" class="contributor">
 				<a href="http://oc.tc/<?php echo $contributor; ?>">
