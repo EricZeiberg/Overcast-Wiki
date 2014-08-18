@@ -1,11 +1,8 @@
-<?php
-include("includes/functions.php");
-?>
+<?php include("includes/functions.php"); ?>
 <!DOCTYPE html>
 <html>
 <head>
 	<title>Contributors - Overcast Network Wiki</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<?php assets(); ?>	
 	<style>
 		.row {
@@ -71,12 +68,6 @@ include("includes/functions.php");
 		}
 		?>
 	</div>
-	<hr>
-	<script src="http://code.jquery.com/jquery.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
-	<script type="text/javascript"></script>
-	<?php
-	pageFooter();
-	?>
+	<?php pageFooter(); ?>
 </body>
 </html>
