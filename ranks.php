@@ -51,38 +51,6 @@
 			}
 		}
 		?>
-		<div class="media">
-			<a class="pull-left" href="#">
-				<span class="label" style="background-color: blue; color: white">Map Developer</span>
-			</a>
-			<div class="media-body">
-				<h4 class="media-heading">Map Developer</h4>
-				<p>Map Developers are highly trusted people that have access to what maps can be added and what maps cannot. They have full access to the maps repo on Github, and they get their own servers to where they can test them. They are represented by a blue badge but do not get a flair in-game.</p>
-				<p>Example: <a href="https://oc.tc/ElectroidFilms">ElectroidFilms</a></p>
-			</div>
-		</div>
-		<hr>
-		<div class="media">
-			<a class="pull-left" href="#">
-				<span class="label" style="background-color: darkcyan; color: white">Event Coordinator</span>
-			</a>
-			<div class="media-body">
-				<h4 class="media-heading">Event Coordinator</h4>
-				<p>The Event Coordinator rank is for the main people who make official events happen. They manage the referees and livestreamers, and manage the event itself to make sure it's a fair and fun environment. They were called 'Senior Referees', 'Tournament', 'Tournament Organiser' and 'Cyan People' in the past.</p>
-				<p>Example: <a href="PandaBattalion">PandaBattalion</a></p>
-			</div>
-			<hr>
-			<div class="media">
-				<a class="pull-left" href="#">
-					<span class="label" style="background-color: teal; color: white">Referee</span>
-				</a>
-				<div class="media-body">
-					<h4 class="media-heading">Referee</h4>
-					<p>The referees are supervisors of the event to make sure there are no cheaters with the ability to notify a senior referee at a moment's notice. They are prioritized with assisting the tournament. Referee is a permanent rank, and applications are only opened when additional referees are required; previously, referee was a temporary rank and applications were opened for each tournament.</p>
-					<p>Examples: <a href="http://i.imgur.com/swC0YHT.png">Plastix</a></p>
-				</div>
-			</div>
-		</div>
 	</div>
 	<?php pageFooter(); ?>
 </body>
