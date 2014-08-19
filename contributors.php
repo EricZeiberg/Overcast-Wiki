@@ -43,8 +43,9 @@
 			'BobRingard',
 			'ezekielelin'
 			);
+		shuffle($contributors);
 		foreach ($contributors as $index => $contributor) {
-			if ($index % 3 == 0) {
+			if ($index % 3 == 2) {
 				echo '<div class="row">';
 			}
 			#######################################
