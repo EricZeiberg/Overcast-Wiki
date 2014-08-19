@@ -17,9 +17,9 @@
 			</div>
 		</div>
 		<?php
-		###########################################
-		#TO EDIT THIS PAGE OPEN ranks.json INSTEAD#
-		###########################################
+		######################################################
+		#TO EDIT THIS PAGE OPEN ranks.json AND EDIT THAT FILE#
+		######################################################
 		$ranks = json_decode(file_get_contents('ranks.json'),true);
 		foreach ($ranks as $type => $type_ranks) {
 			?>
