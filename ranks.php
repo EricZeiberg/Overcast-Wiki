@@ -29,7 +29,21 @@
 					<div class="media-body">
 						<h4 class="media-heading"><?php echo $rank['title']; ?></h4>
 						<p><?php echo $rank['body']; ?></p>
-						<p>Example: <a target="_" href="/assets/img/ranks/<?php echo $rank['example']; ?>.png"><?php echo $rank['example']; ?></a></p>
+						<?php
+						if (is_array($rank['example'])) {
+							echo '<p>Examples: ';
+							foreach ($rank['example'] as $index => $user) {
+								?>
+									<a target="_" href="/assets/img/ranks/<?php echo $rank['example'][$index]; ?>.png"><?php echo $rank['example'][$index]; ?></a>
+								<?php
+							}
+							echo '</p>';
+						} else {
+							?>
+							<p>Example: <a target="_" href="/assets/img/ranks/<?php echo $rank['example']; ?>.png"><?php echo $rank['example']; ?></a></p>
+							<?php
+						}
+						?>
 					</div>
 					<hr>
 				</div>
@@ -37,30 +51,6 @@
 			}
 		}
 		?>
-		<div class="media">
-			<div class = "container">
-				<a class="pull-left" href="#">
-					<span class="label" style="background-color: #A00; color: white">Senior Moderator</span>
-				</a>
-				<div class="media-body">
-					<h4 class="media-heading">Senior Moderator</h4>
-					<p>Senior Moderators are former moderators who are given a rank similar to administrator in which lets them moderate the forums. They get a dark-red flair in game and a maroon badge on the site. </p>
-					<p>Example: <a href="https://oc.tc/PandaBattalion">PandaBattalion</a></p>
-				</div>
-			</div>
-		</div>
-		<hr>
-		<div class="media">
-			<a class="pull-left" href="#">
-				<span class="label" style="background-color: #A00; color: white">Supreme Overlord</span>
-			</a>
-			<div class="media-body">
-				<h4 class="media-heading">Supreme Overlord</h4>
-				<p>The two Supreme Overlords are long-time friends of MonsieurApple. They have the same abilities as administrators.</p>
-				<p>Examples: <a href="https://oc.tc/McYukon">McYukon</a> &amp; <a href="https://oc.tc/McSpider">McSpider</a>.</p>
-			</div>
-		</div>
-		<hr>
 		<div class="media">
 			<a class="pull-left" href="#">
 				<span class="label" style="background-color: blue; color: white">Map Developer</span>
@@ -79,7 +69,7 @@
 			<div class="media-body">
 				<h4 class="media-heading">Event Coordinator</h4>
 				<p>The Event Coordinator rank is for the main people who make official events happen. They manage the referees and livestreamers, and manage the event itself to make sure it's a fair and fun environment. They were called 'Senior Referees', 'Tournament', 'Tournament Organiser' and 'Cyan People' in the past.</p>
-				<p>Example: <a href="https://oc.tc/BrettOgden">BrettOgden</a></p>
+				<p>Example: <a href="PandaBattalion">PandaBattalion</a></p>
 			</div>
 			<hr>
 			<div class="media">
