@@ -7,17 +7,13 @@
 	<?php assets(); ?>  
 </head>
 <body>
-	<?php
-	pageHeader("Gamemodes");
-	?>
+	<?php pageHeader("Gamemodes"); ?>
 	<div class = "container">
 		<div class ="jumbotron">
 			<h1>Gamemodes</h1>
 			<p>The different types of games you can find on Overcast Network. (Written by PhoenixMatt and Troyter)</p>
 		</div>
-	</div>
-	<div class = "tabs">
-		<div class = "container">
+		<div class="tabs">
 			<div class="tabbable tabs-left">
 				<ul class="nav nav-tabs">
 					<li class="active"><a href="#tab1" data-toggle="tab">Capture the Wool</a></li>
