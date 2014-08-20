@@ -55,7 +55,7 @@
 			"body": "These are staff that are less experienced than normal moderators. It is basically a stepping stone for new moderators. The admins will see how mature each one is and decide whether or not to mod them completely. After a two week period, the final decision is made. They can do everything that moderators can do except end or setnext maps, and use WorldEdit commands (with the exception of few such as //drain).",
 			"color": "white",
 			"title": "Junior Moderator",
-			"example": "(None because they change frequently)",
+			"example": "PlasmaCross",
 			"background-color": "#F88"
 		},
 		{
