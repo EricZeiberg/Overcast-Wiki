@@ -31,7 +31,7 @@
 	],
 	"Staff Ranks": [
 		{
-			"body": "An Admin has an orange/yellow badge on the forums and is represented by a yellow flair in-game. They can also moderate the forums and delete and lock topics. The admins are \"in control\" of the mods. We currently have six admins. Administrators have access to all operator commands and can moderate.",
+			"body": "An Admin has an orange/yellow badge on the forums and is represented by a yellow flair in-game. They can also moderate the forums and delete and lock topics. The admins are \"in control\" of the mods. We currently have seven admins. Administrators have access to all operator commands and can moderate.",
 			"color": "white",
 			"title": "Administrator",
 			"example": "MonsieurApple",
