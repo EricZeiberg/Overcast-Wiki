@@ -50,3 +50,5 @@ When you edit the wiki, you should (unless changing the backend portion), follow
 - Ranks
  - Ranks are edited in `ranks.json`
  - Edit the file per the entries already there. If you add a new rank, its example should correspond to a screenshot in `/assets/img/ranks/Username.png`. This is case sensitive.
+ - Refer to http://json.org for syntax.
+ - Please do not remove the whitespace formatting & make it one line of json, this is not being sent to the browser, and should be formatted for easier editing.
