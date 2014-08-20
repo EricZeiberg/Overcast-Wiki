@@ -31,7 +31,7 @@
 	],
 	"Staff Ranks": [
 		{
-			"body": "An Admin has an orange/yellow badge on the forums and is represented by a yellow flair in-game. They can also moderate the forums and delete and lock topics. The admins are \"in control\" of the mods. We currently have six admins. Administrators have access to all operator commands and can moderate.",
+			"body": "An Admin has an orange/yellow badge on the forums and is represented by a yellow flair in-game. They can also moderate the forums and delete and lock topics. The admins are \"in control\" of the mods. We currently have seven admins. Administrators have access to all operator commands and can moderate.",
 			"color": "white",
 			"title": "Administrator",
 			"example": "MonsieurApple",
@@ -55,7 +55,7 @@
 			"body": "These are staff that are less experienced than normal moderators. It is basically a stepping stone for new moderators. The admins will see how mature each one is and decide whether or not to mod them completely. After a two week period, the final decision is made. They can do everything that moderators can do except end or setnext maps, and use WorldEdit commands (with the exception of few such as //drain).",
 			"color": "white",
 			"title": "Junior Moderator",
-			"example": "PlasmaCross",
+			"example": "(None because they change frequently)",
 			"background-color": "#F88"
 		},
 		{
