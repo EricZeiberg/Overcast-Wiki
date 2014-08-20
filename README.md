@@ -4,14 +4,14 @@ Overcast-Wiki
 The unofficial Overcast Wiki 
 
 
-**Pull Requests**
+## Pull Requests
 
 If you would like to add to the wiki or change something, fork the repo and then create a Pull Request. 
 If the PR contributes to the website, I will accept the change and edit the website. 
 
 Note: Please have the latest fork of the repo before submitting the PR. 
 
-**Pull Request Guidelines**
+### Pull Request Guidelines
 
 All Pull Requests submitted *must* follow these guidelines or they will be marked invalid. Submit an issue if you cannot provide a pull request of the guideline standards.
 
