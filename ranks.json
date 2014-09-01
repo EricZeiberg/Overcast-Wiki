@@ -11,14 +11,14 @@
 			"body": "You can buy this badge here</a>. It is $10 for 60 days of perks. It gives you a green badge on the website and a green asterisk in-game.",
 			"color": "white",
 			"title": "Optio",
-			"example": "Without_Regret",
+			"example": "HIVE_Raven",
 			"background-color": "green"
 		},
 		{
 			"body": "You can buy this badge here</a>. This gives you 180 days for $25. It also gives a yellow badge on the website and a yellow asterisk in game. The perks that donors got before the donor update are included in this package.",
 			"color": "black",
 			"title": "Centurion",
-			"example": "Magic_Mat",
+			"example": "Emma7_",
 			"background-color": "#FDD017"
 		},
 		{
@@ -38,7 +38,7 @@
 			"background-color": "orange"
 		},
 		{
-			"body": "This is someone who have helped with the coding of the plugin (PGM) or the website. They have a purple badge. They do not get an in-game flairs.",
+			"body": "This is someone who have helped with the coding of the plugin (PGM) or the website. They have a purple badge. They do not get an in-game flair.",
 			"color": "white",
 			"title": "Developer",
 			"example": "Anxuiz",
@@ -55,7 +55,7 @@
 			"body": "These are staff that are less experienced than normal moderators. It is basically a stepping stone for new moderators. The admins will see how mature each one is and decide whether or not to mod them completely. After a two week period, the final decision is made. They can do everything that moderators can do except end or setnext maps, and use WorldEdit commands (with the exception of few such as //drain).",
 			"color": "white",
 			"title": "Junior Moderator",
-			"example": "PlasmaCross",
+			"example": "PixelRanch",
 			"background-color": "#F88"
 		},
 		{
@@ -96,5 +96,12 @@
 			"example": "Plastix",
 			"background-color": "teal"
 		}
+		{
+			"body": "The Livestreamer rank is for the people who livestream official events. They livestream official mini events and tournaments. Livestreamer is a permanent rank, and applications are only opened when additional livestreamers are required; previously, livestreamer was a temporary rank and applications were opened for each tournament.",
+			"color": "white",
+			"title": "Livestreamer",
+			"example": "Nadastorm",
+			"background-color": "black"
+		},
 	]
 }
