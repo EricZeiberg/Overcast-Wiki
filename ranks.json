@@ -11,14 +11,14 @@
 			"body": "You can buy this badge here</a>. It is $10 for 60 days of perks. It gives you a green badge on the website and a green asterisk in-game.",
 			"color": "white",
 			"title": "Optio",
-			"example": "HIVE_Raven",
+			"example": "Without_Regret",
 			"background-color": "green"
 		},
 		{
 			"body": "You can buy this badge here</a>. This gives you 180 days for $25. It also gives a yellow badge on the website and a yellow asterisk in game. The perks that donors got before the donor update are included in this package.",
 			"color": "black",
 			"title": "Centurion",
-			"example": "Emma7_",
+			"example": "Magic_Mat",
 			"background-color": "#FDD017"
 		},
 		{
@@ -55,7 +55,7 @@
 			"body": "These are staff that are less experienced than normal moderators. It is basically a stepping stone for new moderators. The admins will see how mature each one is and decide whether or not to mod them completely. After a two week period, the final decision is made. They can do everything that moderators can do except end or setnext maps, and use WorldEdit commands (with the exception of few such as //drain).",
 			"color": "white",
 			"title": "Junior Moderator",
-			"example": "PixelRanch",
+			"example": "PlasmaCross",
 			"background-color": "#F88"
 		},
 		{
