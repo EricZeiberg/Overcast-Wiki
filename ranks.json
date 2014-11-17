@@ -45,14 +45,14 @@
 			"background-color": "purple"
 		},
 		{
-			"body": "A moderator has a bright red badge on the forums and is represented by a red star in game. They have the abilities of an admin in game except for promotion and other features of CommandBook. They cannot moderate the forums however take note that Overcast Network does not accept moderator requests and the admins choose who to mod next and invite them privately. Do not ask for mod as it greatly decreases your chances of getting it.",
+			"body": "A moderator has a bright red badge on the forums and is represented by a red flair in game. They have the abilities of an admin in game except for promotion and other features of CommandBook. They cannot moderate the forums however take note that Overcast Network does not accept moderator requests and the admins choose who to mod next and invite them privately. Do not ask for mod as it greatly decreases your chances of getting it.",
 			"color": "white",
 			"title": "Moderator",
 			"example": "Beebou",
 			"background-color": "#F20"
 		},
 		{
-			"body": "These are staff that are less experienced than normal moderators. It is basically a stepping stone for new moderators. The admins will see how mature each one is and decide whether or not to mod them completely. After a two week period, the final decision is made. They can do everything that moderators can do except end or setnext maps, and use WorldEdit commands (with the exception of few such as //drain).",
+			"body": "These are staff that are less experienced than normal moderators. It is basically a stepping stone for new moderators. They have a pink flair in game. The admins will see how mature each one is and decide whether or not to mod them completely. After a two week period, the final decision is made. They can do everything that moderators can do except end or setnext maps, and use WorldEdit commands (with the exception of few such as //drain).",
 			"color": "white",
 			"title": "Junior Moderator",
 			"example": "PlasmaCross",
