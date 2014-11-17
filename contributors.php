@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Contributors - Overcast Network Wiki</title>
-	<?php assets(); ?>	
+	<?php assets(); ?>
 	<style>
 		.row {
 			margin-top: 5px;
@@ -42,6 +42,7 @@
 			'zacharycraft777',
 			'BobRingard',
 			'ezekielelin'
+			'CoWinkKeyDinkInc'
 			);
 		shuffle($contributors);
 		foreach ($contributors as $index => $contributor) {

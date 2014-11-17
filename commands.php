@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Commands - Overcast Network Wiki</title>
-	<?php assets(); ?>	
+	<?php assets(); ?>
 </head>
 <body>
 	<?php pageHeader("Commands"); ?>
@@ -40,7 +40,7 @@
 								<div class="page-header">
 									<h1>/join <small>Join a game</small></h1>
 								</div>
-								
+
 								<b>Usage:</b>
 								<p><kbd>/join [team]</kbd></p>
 
@@ -55,7 +55,7 @@
 								<div class="page-header">
 									<h1>/toggle <small>Change your <kbd>/settings</kbd></small></h1>
 								</div>
-								
+
 								<b>Usage:</b>
 								<p><kbd>/toggle [setting]</kbd></p>
 
@@ -125,7 +125,7 @@
 								<div class="page-header">
 									<h1>/msg <small>Sends a private message to a player</small></h1>
 								</div>
-								
+
 								<b>Usage:</b>
 								<p><kbd>/msg [name] [message]</kbd></p>
 
@@ -195,7 +195,7 @@
 						<div class="container">
 							<div class="col-md-9">
 								<div class="page-header">
-									<h1>/mapnext <small>Get the next map in the <kbd>/rot</kbd>ation</small></h1>
+									<h1>/mapnext <small>View the next map set to play</small></h1>
 								</div>
 
 								<b>Usage:</b>
@@ -250,8 +250,6 @@
 								<p><kbd>/lookup [player]</kbd></p>
 								<p><kbd>/l [player]</kbd></p>
 								
-								<b>Other Info:</b>
-								<p>@player can be used to lookup an offline player.</p>
 							</div>
 						</div>
 					</div>
@@ -264,7 +262,7 @@
 
 								<b>Usage:</b>
 								<p><kbd>/server [servername]</kbd></p>
-								
+
 								<b>Other Info:</b>
 								<p>The /server command can also let you teleport to MapDev servers to test out new maps. You type /server and then the name of the Map Developer (ElectroidFilms for example) to acess the server. At most times the server is white-listed, but when it is on, you can try out new maps before they may get added to the offical repository.</p>
 							</div>
