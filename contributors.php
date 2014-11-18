@@ -41,8 +41,8 @@
 			'goodbobul',
 			'zacharycraft777',
 			'BobRingard',
-			'ezekielelin'
-			'CoWinkKeyDinkInc'
+			'ezekielelin',
+			'CoWinkKeyDinkInc',
 			);
 		shuffle($contributors);
 		foreach ($contributors as $index => $contributor) {
