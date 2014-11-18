@@ -213,10 +213,10 @@
 								</div>
 
 								<b>Usage:</b>
-								<p><kbd>/staff [server] [-a]</kbd></p>
+								<p><kbd>/staff [server]</kbd></p>
 
 								<b>About:</b>
-								<p>Displays staff on the current server, on the specified server, or on all servers if -a is specified.</p>
+								<p>Displays staff on the current server, or on the specified server</p>
 							</div>
 						</div>
 					</div>
