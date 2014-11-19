@@ -87,6 +87,11 @@ function pageHeader($selected) {
 			"icon" => "star-empty",
 			"type" => "dropdown",
 			),
+		"IRC" => array(
+			"href" => "irc.php",
+			"icon" => "comment",
+			"type" => "dropdown",
+			),
 		);
 	########################################
 	#You don't need to edit past this point#
