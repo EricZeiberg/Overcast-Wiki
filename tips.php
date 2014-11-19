@@ -294,11 +294,6 @@
 									Usually any amount of supplies should be enough to get you back on your feet.
 								</p>
 								<p>
-									Out of picks? Grab some TNT. TNT can easily be ignited with a pressure plate,
-									made of only two wood. Place a TNT on one of your diamond or iron patches to get
-									easy access to tools and armor.
-								</p>
-								<p>
 									Is there a bridge? Run to the enemy base and steal some supplies from them. If
 									it's late enough in the game for you to be out of supplies, then stealthily
 									taking supplies from the enemy base should be simple while everyone is in
