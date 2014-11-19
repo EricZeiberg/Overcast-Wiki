@@ -4,11 +4,11 @@ function assets() {
 	?>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Jquery -->
-	<script src="/assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.min.js"></script>
 
 	<!-- Bootstrap -->
-	<link href="/assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
-	<script src="/assets/js/bootstrap.min.js"></script>
+	<link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<script src="assets/js/bootstrap.min.js"></script>
 
 	<link href="assets/css/style.css" rel="stylesheet" media="screen">
 	<link href="assets/css/highlight.css" rel="stylesheet" media="screen">
@@ -85,6 +85,11 @@ function pageHeader($selected) {
 		"Ranks" => array(
 			"href" => "ranks.php",
 			"icon" => "star-empty",
+			"type" => "dropdown",
+			),
+		"IRC" => array(
+			"href" => "irc.php",
+			"icon" => "comment",
 			"type" => "dropdown",
 			),
 		);
