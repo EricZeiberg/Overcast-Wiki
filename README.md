@@ -3,6 +3,8 @@ Overcast-Wiki
 
 The unofficial Overcast Wiki 
 
+The repo is on code freeze as we migrate to the new wiki system
+
 
 **Pull Requests**
 
