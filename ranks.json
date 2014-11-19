@@ -38,7 +38,7 @@
 			"background-color": "orange"
 		},
 		{
-			"body": "This is someone who have helped with the coding of the plugin (PGM) or the website. They have a purple badge. They do not get an in-game flairs.",
+			"body": "This is someone who have helped with the coding of the plugin (PGM) or the website. They have a purple badge. They do not get an in-game flair.",
 			"color": "white",
 			"title": "Developer",
 			"example": "Anxuiz",
@@ -96,5 +96,12 @@
 			"example": "Plastix",
 			"background-color": "teal"
 		}
+		{
+			"body": "The Livestreamer rank is for the people who livestream official events. They livestream official mini events and tournaments. Livestreamer is a permanent rank, and applications are only opened when additional livestreamers are required; previously, livestreamer was a temporary rank and applications were opened for each tournament.",
+			"color": "white",
+			"title": "Livestreamer",
+			"example": "Nadastorm",
+			"background-color": "black"
+		},
 	]
 }
