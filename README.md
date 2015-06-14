@@ -1,26 +1,6 @@
 Overcast-Wiki
 =============
 
-The unofficial Overcast Wiki 
+Since Overcast Network no longer has any one playing on it (including staff), I have decided to ceace development on this indefinitely. 
 
-The repo is on code freeze as we migrate to the new wiki system
-
-
-**Pull Requests**
-
-If you would like to add to the wiki or change something, fork the repo and then create a Pull Request. 
-If the PR contributes to the website, I will accept the change and edit the website. 
-
-Note: Please have the latest fork of the repo before submitting the PR. 
-
-**Pull Request Guidelines**
-
-All Pull Requests submitted *must* follow these guidelines or they will be marked invalid. Submit an issue if you cannot provide a pull request of the guideline standards.
-
-1. The PR must contain actual code; no walls of text.
-2. The PR must be a useful contribution.
-  * PRs adding inaccurate information will be rejected.
-3. PRs must use the latest fork of the repo.
-4. Ensure you're not submitting a duplicate PR by searching before submitting.
-5. These guidelines are subject to change at any time.
-6. Existing PRs are not subject to any changes in guidelines provided they are not updated after the change.
+If you have an obsession for the old and obselete, you can fork this and do whatever you want with it. 
